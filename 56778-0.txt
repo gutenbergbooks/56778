@@ -1,41 +1,7 @@
-The Project Gutenberg EBook of The Philippine Islands, 1493-1898; Volume
-XLIX, by Various
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Philippine Islands, 1493-1898; Volume XLIX
-       Explorations by early navigators, descriptions of the
-       islands and their peoples, their history and records of
-       the catholic missions, as related in contemporaneous books
-       and manuscripts, showing the political, economic, commercial
-       and religious conditions of those islands from their
-       earliest relations with European nations to the close of
-       the nineteenth century
-
-Author: Various
-
-Editor: Emma Helen Blair
-
-Translator: James Alexander Robertson
-
-Release Date: March 18, 2018 [EBook #56778]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE PHILIPPINE ISLANDS, VOLUME XLIX ***
+*** START OF THE PROJECT GUTENBERG EBOOK 56778 ***
 
 
 
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/
 
 
 
@@ -100,13 +66,13 @@ CONTENTS OF VOLUME XLIX
             October 8, 1762-March 9, 1764                          132
             Rojo's narrative. Manuel Antonio de Rojo y Vieyra;
             [Manila, 1763]                                         176
-            Synopsis of letter to Cárlos III. Simon de Anda y
+            Synopsis of letter to CÃ¡rlos III. Simon de Anda y
             Salazar; Manila, June 22, 1764                         262
-            Letter to Cárlos III. Simon de Anda y Salazar;
+            Letter to CÃ¡rlos III. Simon de Anda y Salazar;
             Manila, July 23, 1764                                  269
             Letter to Gonzalez. Baltasar Vela, S.J.; Manila,
             July 24, 1764                                          288
-            Synopsis of communications to Cárlos III. Simon de
+            Synopsis of communications to CÃ¡rlos III. Simon de
             Anda y Salazar, Manila, June-July, 1764                296
             Draper's defense. In two parts. I. A plain narrative.
             [Sir William Draper; London, 1764?]. II. Colonel
@@ -145,7 +111,7 @@ ILLUSTRATIONS
     Le Gentil's Voyage (Paris, 1779-1781), ii, plate 6;
     photographic facsimile from copy in library of Wisconsin
     Historical Society                                             107
-    Plan of port of Cavite and its fortifications, by Tomás de
+    Plan of port of Cavite and its fortifications, by TomÃ¡s de
     Castro y Andrade, ca. 1762; photographic facsimile of
     original manuscript (in colors), in Archivo general de Indias,
     Sevilla                                                        183
@@ -223,7 +189,7 @@ conquest would be an advantage. The expedition should proceed first
 against the fort of Zamboanga, which can be easily taken, and then
 abandoned and demolished or left in charge of the present Spanish
 garrison if they will take the oath of allegiance. Next the forts
-of the islands of Misamis and Cebú should be taken, both of which
+of the islands of Misamis and CebÃº should be taken, both of which
 are important. They can count upon the help of the Moros, and of the
 Boholans, the latter of whom are now in revolt. All this can be done
 with one European ship with about fifty soldiers, and several smaller
@@ -240,7 +206,7 @@ twenty-ninth of July. He himself following with all but two of the
 remaining vessels on August 1, reaches Malacca on the nineteenth,
 but Tiddeman fails to appear until the twenty-first because of
 calms. Leaving Malacca on the twenty-seventh, the fleet makes the
-coast of Luzón, September 19, but owing to rough weather is unable to
+coast of LuzÃ³n, September 19, but owing to rough weather is unable to
 enter the bay of Manila until the twenty-third. Cornish and Draper,
 abandoning the previous plan to attack Cavite first, resolve to
 proceed directly against Manila, as that once taken, Cavite must also
@@ -271,7 +237,7 @@ relations. Cornish encloses a list of the ships with the seamen
 and marines landed from each one, and of those killed and wounded
 during the siege. This shows a landing force of 1,017--17 killed,
 and 17 wounded. The letter of November 10 reports the capture of the
-"Santísima Trinidad" by two vessels detached for that purpose. This
+"SantÃ­sima Trinidad" by two vessels detached for that purpose. This
 large vessel, which had sailed for Acapulco some time before with
 a rich cargo, but has been obliged to put back, is taken to be the
 "Filipino" which is expected from Acapulco with the situado, until
@@ -329,7 +295,7 @@ preceding letters by Cornish and Draper. The troops, consisting of
 the 79th regiment, a company of royal artillery, 30 artillerymen
 furnished by the East India Company, 2 companies of Frenchmen,
 also furnished by the Company, 600 Sepoys, and other natives, and
-reënforced by Cornish's seamen and marines, a total of 2,300 men,
+reÃ«nforced by Cornish's seamen and marines, a total of 2,300 men,
 sail July 29 and August 1 for Malacca, where they are to water,
 taking precautions on the way to prevent the Spaniards from learning
 of the expedition. Malacca is left August 27, and the fleet anchors
@@ -339,12 +305,12 @@ reply, and, accordingly, operations are begun immediately. From that
 date until October 6, when Manila is taken by easy assault, the siege
 is one of ceaseless activity on the part of the British, who struggle
 against heavy seas and rains which aid the Spaniards. The latter, 800
-strong, are reënforced by 10,000 Pampangos, "a fierce and barbarous
+strong, are reÃ«nforced by 10,000 Pampangos, "a fierce and barbarous
 people." To the latter is due the killing, under a flag of truce,
 of Draper's secretary, Lieutenant Fryar, who is sent to the Spanish
 lines with a nephew of the archbishop-governor who has been captured
 with a vessel despatched from the Acapulco galleon. This has arrived
-on the Luzón coast in September, with news of the war, and Cornish
+on the LuzÃ³n coast in September, with news of the war, and Cornish
 endeavors to capture it. The British base of land operations is the
 suburb of Malate, from which successive advances are made, although
 a few sallies by Spaniards and Pampangos give the British forces
@@ -415,7 +381,7 @@ that he has been in collusion with the British. This is in many ways
 an especially interesting document, and supplements the information
 of the other documents considerably.
 
-In a letter to King Cárlos III, dated June 22, 1764, Anda relates
+In a letter to King CÃ¡rlos III, dated June 22, 1764, Anda relates
 the measures taken by him in his office as Audiencia, governor and
 captain-general. These measures cover a wide range, extending to things
 social, economic, moral, and religious. A fixed tariff for provisions,
@@ -426,7 +392,7 @@ the curfew, prohibition of gambling games, regulation of the sale of
 intoxicants, and strict regulations regarding theft--all these engage
 his attention.
 
-Another letter from Anda to Cárlos III, dated July 23, 1764, is
+Another letter from Anda to CÃ¡rlos III, dated July 23, 1764, is
 devoted entirely to the archbishop, who is characterized as wanting
 in loyalty. Anda, while protesting his own loyalty and devotion to
 the crown of Spain, declares the many acts of the archbishop (who
@@ -469,7 +435,7 @@ have been instigated and aided by the British, and both of which are
 finally put down, the latter with the aid of Bishop Ustariz. Anda
 praises the religious orders, especially the Augustinians, although
 he notes that some of the religious of St. John of God have been
-discontented. Joló affairs and the British alliance with the king of
+discontented. JolÃ³ affairs and the British alliance with the king of
 that island are discussed briefly. Orendain, who has been disloyal to
 the king, has gone with his family to Madras with the English. The
 fines imposed upon Villacorta and Viana do not appear to have been
@@ -563,11 +529,11 @@ DOCUMENTS OF 1759-1765
         Anda and the English invasion, 1762-1764. Simon de Anda y
         Salazar, and others; October 8, 1762-March 9, 1764.
         Rojo's narrative. Manuel Antonio de Rojo y Vieyra; [1763].
-        Synopsis of letter to Cárlos III. Simon de Anda y Salazar;
+        Synopsis of letter to CÃ¡rlos III. Simon de Anda y Salazar;
         June 22, 1764.
-        Letter to Cárlos III. Simon de Anda y Salazar; July 23, 1764.
+        Letter to CÃ¡rlos III. Simon de Anda y Salazar; July 23, 1764.
         Letter to Gonzalez. Baltasar Vela, S.J.; July 24, 1764.
-        Synopsis of communications to Cárlos III. Simon de Anda y
+        Synopsis of communications to CÃ¡rlos III. Simon de Anda y
         Salazar; June-July, 1764.
         Draper's defense. In two parts. I. A plain narrative. [Sir
         William Draper; 1764?]. II. Colonel Draper's answer to the
@@ -725,7 +691,7 @@ more attached to the Spaniards than the Calamians or Paraguans: they
 have abundance of rice, Hogs & Poultry. The whole Jurisdiction does
 not seem to contain above 4 or 5000 People. [3]
 
-The Islands Leyté, Samar & several small ones adjoining are under
+The Islands LeytÃ©, Samar & several small ones adjoining are under
 the Jurisdiction of the former.
 
 Samar which is divided from Leyte by the narrow Strait of S. Juanico
@@ -820,7 +786,7 @@ the number of Fire-Flies from which it is said the Name Isla de Fuegos
 was given it.
 
 Negros is divided into two Jurisdictions under the Corregidor of Ylog
-the Southern Part to Dumagueté & the N. Part under the Corregidor of
+the Southern Part to DumaguetÃ© & the N. Part under the Corregidor of
 Sily established about 10 years ago. The Island is double Land; very
 fruitful in rice which it transports to Zebu & other places adjoining:
 Yonote or Gumatty: The Coasts are inhabited by Bissayas to the Number
@@ -860,7 +826,7 @@ The Spanish Dominion on Magenda [7] comprehends the whole Coasts from
 Samboangan by the North to Carayas. In General it yields much Gold,
 particularly Butuan, wax, Cinnamon, Civet, good Cacao, Cotton, Sago,
 Rice, & Pepper thrives very well, they have many fine woods Brazil
-Ebony &ca. & the Country also yields Sulphur & Salt Petré. It is not
+Ebony &ca. & the Country also yields Sulphur & Salt PetrÃ©. It is not
 indeed without Reason this is held the richest of the Philippins
 & from its many Lakes & Rivers extremely convenient for inland
 Commerce. The Natives are very numerous inland & besides those
@@ -882,7 +848,7 @@ from Acapulco in war for which it is extremely convenient being only
 
 It may appear wonderful that so many Islands so excellent in Situation
 should yield so little for foreign Commerce except Provisions however
-that is not to be ascribed to the Barreñess of the Country but solely
+that is not to be ascribed to the BarreÃ±ess of the Country but solely
 to the Indolence & Bad Government of the Spaniards--However it is
 past doubt that were there a more equitable Jurisdiction established,
 that the Benefit attending the Possession of these Islands would be
@@ -1407,7 +1373,7 @@ the Admty. April 14th, 1763 at night."]
 LETTERS FROM GENERAL DRAPER TO EARL OF EGREMONT
 
 
-A copy of Brigadier General Draper's Letter to the Rt. Hoñble The
+A copy of Brigadier General Draper's Letter to the Rt. HoÃ±ble The
 Earl of Egremont his Majesty's Principal secretary of State for the
 southern Department [26]
 
@@ -1938,7 +1904,7 @@ these measures, rash as they seem, and contrary to all rules of our
 profession, by our critical situation. From the top of this post, which
 we called No 2, we had a perfect view of the enemy's works. The front
 we were obliged to attack, was defended by the bastions of St. Diego
-and St. Andrew [i.e., San Diego and San Andrés], with orillons and
+and St. Andrew [i.e., San Diego and San AndrÃ©s], with orillons and
 retired flanks, a ravelin which covered the royal gate, a wet ditch,
 covered way, and glacis. The bastions were in excellent order, lined
 with a great number of fine brass cannon; but their ravelin was not
@@ -2339,7 +2305,7 @@ that we may present a clear idea of the vigorous resistance that was
 made even to the last extremity. [49]
 
 The city of Manila, according to the map of Father Murillo, is located
-in 14° 40' of north latitude, and 158° 35' east longitude, on a
+in 14Â° 40' of north latitude, and 158Â° 35' east longitude, on a
 tongue of land which terminates in a point, and forming the figure
 of a jug or flagon, whose extremity or neck is formed by the above
 point itself and contains the royal fort of Santiago. At the west it
@@ -2356,18 +2322,18 @@ ditch nor terreplein. Then too, the parapets are only one foot wide,
 and the curtain six.
 
 The curtain embracing the north side, bathed by the river, and which
-has a kind of curvature where it forms two reëntrant angles, is in
+has a kind of curvature where it forms two reÃ«ntrant angles, is in
 the same condition of weakness as that of the sea, and is defended
 by two small bastions, which present the same defect noted above in
 their lines of defense.
 
-From the bastion of San Gabriel to the gate of the Parián on the east
+From the bastion of San Gabriel to the gate of the PariÃ¡n on the east
 of the city, is located a false screen or barbacan with its parapet
 and banquette. It is defective, for it is fallen, and has no gate
-for the retreat of the soldiers. The gate of the Parián is covered
+for the retreat of the soldiers. The gate of the PariÃ¡n is covered
 and defended by a small outer work in the form of a crown, and the
 royal gate by a ravelin so poorly placed and so poorly ordered, that
-it cannot defend the faces of the collateral bastions of San Andrés
+it cannot defend the faces of the collateral bastions of San AndrÃ©s
 and of the foundry. The flanks of the two latter bastions are not any
 more capable of defending the faces of the ravelin. It must be added
 to the above that all those fortifications are very old and defective:
@@ -2465,7 +2431,7 @@ all the gunpowder from that post. But it was necessary to abandon the
 said post with some effects and a goodly quantity of saltpetre, for
 the enemy landed at that same place, under support from the artillery
 of their ships. They took possession of the reduct as well as of the
-churches of Malate, [55] Nuestra Señora de Guia, and Santiago, of the
+churches of Malate, [55] Nuestra SeÃ±ora de Guia, and Santiago, of the
 suburbs and shops along the seashore, between the church of San Juan
 de Bagumbayan, which was eighty-five toises from the city, and the
 reduct. That same night two pickets of musketeers were detached from
@@ -2478,13 +2444,13 @@ neighboring houses, so that they retired in disorder.
 
 On the twenty-fourth, about eight o'clock in the morning, they began
 to salute the enemy with artillery from the boulevards of the foundry
-and from San Andrés, but with little effect, because the enemy were
+and from San AndrÃ©s, but with little effect, because the enemy were
 behind the churches which protected them. [56]
 
 At nine in the morning, a small galley entered the bay, coming from
 the Embocadero of San Bernardino, with the news that the galleon
 "Philippino" had anchored in Palapa, on its return from Nueva
-España. The hostile squadron detached a swift frigate and four armed
+EspaÃ±a. The hostile squadron detached a swift frigate and four armed
 chaloupes, which gave chase to the galley. Having fired some shots at
 it, the galley made shore at Tambobo. At the same time the majority
 of the people on that galley, soldiers and passengers leaped into
@@ -2500,7 +2466,7 @@ two cannons had been taken out of it.
 The following night it was resolved to make a vigorous sortie in
 order to discomfit the enemy who were fortifying themselves with all
 haste in the churches of which we have just spoken, namely, Nuestra
-Señora de Guia, Malate, and Santiago. Two four-pounders were detached,
+SeÃ±ora de Guia, Malate, and Santiago. Two four-pounders were detached,
 with the necessary artillerymen and the men needed to manage those
 cannons, fifty musketeers of the regular troops, some militiamen,
 and eight hundred Indian natives with their spears. In charge of
@@ -2541,7 +2507,7 @@ those Indians (although few in number), threw themselves on the enemy
 with such fury that they gained possession of the posts which have
 just been mentioned. They drove out the hostile musketeers, wounding
 and killing all that they met. But the English were promptly succored
-by a reënforcement of three hundred fusileers, who regained the posts
+by a reÃ«nforcement of three hundred fusileers, who regained the posts
 that they had lost, and caused the Indians to retreat, to whom a signal
 was made from the bastion of San Andres to leave a clear field so that
 the fire of our artillery could have free play. The artillery did,
@@ -2558,7 +2524,7 @@ to the young man who accompanied him. The drummer was also killed,
 and another person who appeared to be the servant of the officer. The
 Indians cut off the head of the latter, but not being longer able to
 endure the hostile fire they retired to the covered way of the royal
-gate, which was opened for them so that they could reënter. Following
+gate, which was opened for them so that they could reÃ«nter. Following
 are the facts of the case. The nephew of the archbishop, Don Antonio
 Sierra de Tagle, having been made prisoner on board the little galley
 and conducted aboard the flagship, of which we have spoken above,
@@ -2677,7 +2643,7 @@ the general quarters were located. The third was to invest by the
 sea side. Those three columns were to be supported by two pickets of
 musketeers, commanded by the sargento-mayor of Cavite, two captains,
 and four subalterns. At the hour set, our Pampangos and pickets sallied
-out in the best order, but scarce had they set foot outside the Parián
+out in the best order, but scarce had they set foot outside the PariÃ¡n
 gate, when they began to utter loud cries in disorder and make a great
 racket. That allowed the camp of the enemy to get into readiness to
 receive them. In spite of that, the Pampango troops entered their
@@ -2707,14 +2673,14 @@ terreplein of the same bastion had also fallen, and their ruins had
 dried up the ditch. But what caused the greatest anxiety was that the
 engineer recognized that the enemy was busy making a new battery for
 the purpose of dismounting the artillery, the collateral flanks of the
-bastions San Andrés and San Eugenio, which flanked and defended the
+bastions San AndrÃ©s and San Eugenio, which flanked and defended the
 entrance to the covered way and the approach to the breach. In fact,
 that battery began to play at noon with so great activity, that it
 dismounted the cannons of the flanks in two hours time, overthrew the
 parapets, and killed some fusileers and pioneers. Twice were other
 parapets made with beams and bags of sand, but each time they were in
 ruins the moment after. Consequently, the men were obliged to retire
-from those bastions. The bastion of San Andrés did not suffer so much,
+from those bastions. The bastion of San AndrÃ©s did not suffer so much,
 for it was stronger. However, it had one cannon of the caliber of
 eighteen, which was placed in the elevated flank, dismounted. We had no
 other hope than in another cannon of equal caliber, of the two which
@@ -2765,7 +2731,7 @@ and the third marched along the highway surrounding the covered way,
 toward the east and bordering on the plaza de armas.
 
 The few soldiers left us occupied the gorge of the bastion of the
-foundry, the royal gate, the flank of the bastion of San Andrés,
+foundry, the royal gate, the flank of the bastion of San AndrÃ©s,
 and the curtain joining them. The enemy were supported by their
 batteries and by the fusileers of the tower of Santiago, who poured
 in a steady fire. Consequently, it was impossible for ours to occupy
@@ -2792,7 +2758,7 @@ throwing themselves from the wall. The enemy's column which entered
 by the royal gate directed its course toward the plaza de armas and
 seized the palace. [69] That which marched by the highway, took the
 small fort which defends the bridge across the Pasig River. Thence
-it went to the city, entering by the Parián gate. [70]
+it went to the city, entering by the PariÃ¡n gate. [70]
 
 The fort flung a white flag, and terms of capitulation were proposed,
 which the British officers refused to accept. At the same moment the
@@ -2874,10 +2840,10 @@ states that in accordance with his appointment by the latter as
 visitor-general of the provinces, he appoints the necessary persons
 for the performance of that duty, forms a court, and goes to Bulacan
 on October 4. There on presenting his credentials he is recognized
-by the alcalde-mayor José Pasarin. Manila is taken by assault by the
+by the alcalde-mayor JosÃ© Pasarin. Manila is taken by assault by the
 British next day, and the president and auditors of the Audiencia
 remaining in the city are taken prisoners. Citing laws clxxx and lviii
-of título xv, book ii, of the Recopilación [76] Anda declares that,
+of tÃ­tulo xv, book ii, of the RecopilaciÃ³n [76] Anda declares that,
 by virtue thereof, the Audiencia is continued in him alone; and since
 the archbishop (who has been acting as governor and president of the
 Audiencia) is also a prisoner, the duties of the office of governor
@@ -2889,7 +2855,7 @@ these, by means of their greater knowledge of the nature, customs, and
 civilization of the natives, can maintain them and incite them to the
 defense of the country, against the English enemy: I have considered it
 fitting and necessary to send the present to your Excellency, by which,
-in the name of Don Carlos III, the Catholic king of España, I request
+in the name of Don Carlos III, the Catholic king of EspaÃ±a, I request
 and ask you, and in my own name, petition you, by means of the curas,
 rectors, and other members of the secular clergy of your diocese,
 to be pleased to represent to, persuade, and inform the natives of
@@ -2915,7 +2881,7 @@ so that I may file them with the papers of their kind. [77]
 [The archbishop answers this letter under date of Manila, October 10,
 as follows:]
 
-In your Lordship's commission granted with the preëminence that is
+In your Lordship's commission granted with the preÃ«minence that is
 fitting, you will proceed according to your prudence and to present
 circumstances. The first point is the Catholic faith. 2d, loyalty to
 the king, our sovereign. 3d, to faithfully observe the treaties which
@@ -2926,7 +2892,7 @@ to this event and to this time.... [78]
 
 [To the above, Anda replies on October 20. [79] Citing the contents of
 the archbishop's letter, he says that his actions are to be governed by
-laws lvii [80] and lviii of título xv, of book ii of the Recopilación
+laws lvii [80] and lviii of tÃ­tulo xv, of book ii of the RecopilaciÃ³n
 and since the governor is at present not able to govern, upon him
 devolves the duty of preserving peace and administering justice. "In
 this province [Bulacan], I have obtained not only complete quiet, but
@@ -2942,7 +2908,7 @@ in me, that I am the sole and only minister, that by my absence from
 that capital because of the commissions confided to me at a convenient
 time, I remained free from the enemies, and as such capable and proper
 by law, so that in my person is met the prescriptions of law clxxx
-of the above-cited book and título, since my associates are lacking
+of the above-cited book and tÃ­tulo, since my associates are lacking
 and have been imprisoned with your Excellency in the fatal loss of
 that capital.
 
@@ -2991,7 +2957,7 @@ way the commission would have been superfluous. And is it possible that
 without regarding consequences, your Excellency tells me to faithfully
 observe the treaties with the British leaders, and that I regulate my
 just procedures to the result and the time of the surrender of that
-city? If your Excellency, although a vassal of the king of España,
+city? If your Excellency, although a vassal of the king of EspaÃ±a,
 his minister, and so honored, counsels me after this manner, what is
 allowed to the British leaders? [84] Your Excellency knows that when I
 left that capital, you did not give me the royal seal, without which no
@@ -3111,7 +3077,7 @@ to the surrender of Manila and its environs.]
 [An edict signed by "Dauzon Drak," [91] the English governor at Manila,
 and by others, on November 4, states that since the governor (i.e.,
 Archbishop Rojo), together with the auditors, has conceded to the
-English the island of Luzón with the adjacent islands belonging to said
+English the island of LuzÃ³n with the adjacent islands belonging to said
 government, according to the agreement made between Samuel Cornis,
 commander of the water forces, and Guillermo Draper, commander of
 the land forces of the British; and since "the government of Manila
@@ -3159,12 +3125,12 @@ the signed paper, Anda declares that they ought not to make use of,
 but rather, burn it. That they be excused from paying the rest of
 the tribute due from them, until Anda and the government be again in
 Manila, is preposterous. That demand shows that they believe that
-the government will not have the strength to reëstablish itself
+the government will not have the strength to reÃ«stablish itself
 there. Now, indeed, they ought to aid with more than the tribute,
 which is their recognition of vassalage to the Spanish monarch, in
 fact, with their lives, possessions, and services, but nothing more
 than the tribute due is asked from them. All the other villages pay
-the tribute. Two regiments of Tagálogs and Pampangos are being formed
+the tribute. Two regiments of TagÃ¡logs and Pampangos are being formed
 to defend the country against the English, with their own arms and
 the king's pay. Their village alone has complained, and is become
 a reproach to the others, which look askance at it. Anda is certain
@@ -3217,13 +3183,13 @@ the latter have made with the Sangleys of this province."
 
 [A series of documents dated December 22, 23, 27, 30, and 31, 1762, and
 February 4, 1763, treat of the Sangley conspiracy in the province in
-conjunction with the English and the Sangleys of the Parián of Manila
+conjunction with the English and the Sangleys of the PariÃ¡n of Manila
 and the terrible vengeance taken. Anda informs all the officials and
 people of the province of Pampanga of the discovery of the conspiracy a
 few days before it was to be sprung. This was to have been on Christmas
 eve, when many people would be engaged in their devotions and others
 would be celebrating by becoming intoxicated. The Chinese of the
-province, together with about one thousand others from the Parián,
+province, together with about one thousand others from the PariÃ¡n,
 were to kill right and left and thus prepare the way for the entrance
 of the English. On being discovered, the Chinese make a stand on the
 twentieth of December, but are forced to flee refusing the promises
@@ -3275,7 +3241,7 @@ effort should be resisted as strongly as possible.]
 letter to the archbishop, accusing him of connivance with the British,
 and the utter disregard of Spanish interests. He reminds the archbishop
 again that he has assumed the office of governor in accordance with
-certain laws in the Recopilación. The archbishop must cease his
+certain laws in the RecopilaciÃ³n. The archbishop must cease his
 disloyal practices, which are prejudicial to the rights of those
 domains and the irreparable loss of the inhabitants. Through his
 folly, Manila was taken by assault, and then the fort of Santiago
@@ -3306,7 +3272,7 @@ object being to have them give their word of honor to the British,
 a course that will necessarily weaken the Spanish defense of the
 provinces. He has secured food and supplies for the British, and
 has induced certain Chinese from a trading champan to settle in the
-Parián, in order that the British may have greater strength. He has
+PariÃ¡n, in order that the British may have greater strength. He has
 endeavored to dislodge the Augustinians, who side with Anda, [96]
 from their villages and supply their place with seculars. He has done
 these things to curry favor with the British and through his vanity
@@ -3364,7 +3330,7 @@ as a traitor and rebel. The archbishop has influenced the British
 against Anda, and they recognizing the opportunity to create civil
 war in the islands have proceeded against the latter. The British
 have also made an offensive and defensive alliance with the king of
-Joló, [102] but the archbishop has offered no serious objection to
+JolÃ³, [102] but the archbishop has offered no serious objection to
 such a procedure, which is to make war upon the Catholic religion,
 for it will inundate the islands with Mahometans, in addition to
 the English Protestants. This is opposed to the treaty between the
@@ -3382,7 +3348,7 @@ as follows with a harsh attack on the archbishop, which although
 possibly too violent, throws much light on the life of the times:]
 
 The memory of that letter, which your Excellency wrote to the bishop
-of Zebù, when the latter was president, governor, and captain-general
+of ZebÃ¹, when the latter was president, governor, and captain-general
 of these islands, does not fail to corroborate this idea [i.e.,
 of the archbishop's sanity]. In that letter you advised him that
 in order that you might undertake to consecrate him, he must first
@@ -3391,7 +3357,7 @@ dances of women and men in the palace, as that was entirely opposed
 to modesty, prudence, and a delicate conscience of bishops, as well as
 outside the object of the consecration. That advice was very worthy of
 praise, although it would appear that it was idle and could have been
-excused because of the solid virtue and religious conduct of Señor
+excused because of the solid virtue and religious conduct of SeÃ±or
 Espeleta. But (oh human misery and weakness!) your Excellency did not
 practice that healthful counsel in the celebration of the patronage of
 our Lady of Guadalupe. For, to the universal confusion and laughter
@@ -3499,11 +3465,11 @@ My Dear Sir:
 
 Yesterday the governor handed me the letter which your Grace was
 pleased to send him, in which your Grace promises to be loyal to his
-sacred Majesty, the king of Gran Bretaña, my master. You may believe,
+sacred Majesty, the king of Gran BretaÃ±a, my master. You may believe,
 Don Diego, that your letter gave me especial pleasure and great joy--so
 much so that I resolved to send you one of his Majesty's ships under
 my command, in order to assure your Grace of my protection, and aid in
-the name of my master, against the common enemy, España. I have been
+the name of my master, against the common enemy, EspaÃ±a. I have been
 very sensible of the many injuries which your Grace has suffered under
 the tyrannical government of the Spaniards; but 1 am very pleased to
 know that your Grace has opened your eyes, and that your Grace will
@@ -3815,9 +3781,9 @@ will facilitate the furnishing of supplies to the British as far as
 possible. He will appoint persons to arrange details of the delivery
 of Manila and Cavite, though the delivery itself is to be made to
 the troops in military style. [115] Another note from Anda on the
-same date, announces that he has appointed the treasurer, Nicólas
+same date, announces that he has appointed the treasurer, NicÃ³las
 Echauz, Sargento-mayor Francisco Salgado, and the infantry captains,
-Mariano Thobias and Raymundo Español, to formally receive the effects
+Mariano Thobias and Raymundo EspaÃ±ol, to formally receive the effects
 of Manila and Cavite, and to treat of other points that may arise.]
 
 
@@ -3881,7 +3847,7 @@ an Englishman, who has become a naturalized Spaniard. The latter is
 commissioned to cultivate spice and cinnamon, the working of which
 he understands thoroughly. With him goes a Recollect missionary
 to attend to spiritual matters, and good results are promised to
-Christianity. The new bishop of Zebù is despatched to his diocese,
+Christianity. The new bishop of ZebÃ¹ is despatched to his diocese,
 taking with him six thousand pesos of the funds of that bishopric,
 which has been adjudged him by the Audiencia. [118] The archbishop has
 a part in the pacification of Bohol through the above bishop and the
@@ -3931,7 +3897,7 @@ month are held the celebrations in honor of our Lady of Guadalupe,
 the ceremonies being both ecclesiastical and social. [120] Among
 the latter are three afternoons given up to bullfights, "which was
 properly an entertainment, without any fear of danger, for the bulls
-hereabout are not courageous and fierce like those of both Españas,"
+hereabout are not courageous and fierce like those of both EspaÃ±as,"
 and anyone could indulge in the sport, even the unskilled. There are
 also musical entertainments and dancing which are designed chiefly
 for the ladies. The illness of the archbishop, however, compels him
@@ -4146,7 +4112,7 @@ royal Audiencia. Anda, on coming to the islands, takes up the case,
 and Auditor Davila falling mortally ill, he endeavors to take entire
 charge of the matter, even to the issuing of a royal provision. This
 the archbishop-governor opposes on the grounds that Anda may not
-issue such provisions alone. Although law 180 of the título regarding
+issue such provisions alone. Although law 180 of the tÃ­tulo regarding
 audiencias allows one auditor to act as the Audiencia in case of the
 absence of the other auditors, that auditor cannot determine matters
 finally, and despatch royal provisions; as other laws of the same
@@ -4289,7 +4255,7 @@ having been attested, was sent to the commander of the ship so that
 the pilots might be informed of it. The ship left the mouth in fact on
 the third of September, and reached San Jacinto in four days, where it
 took wood and water aboard, and where it was overtaken by two boats or
-champans with the reënforcement of food, sails, and other supplies,
+champans with the reÃ«nforcement of food, sails, and other supplies,
 which had been asked and which they would need. They sailed from the
 Embocadero on the thirteenth of said month with a favoring wind. But
 when they had sailed three hundred leguas, they were met by a most
@@ -4347,13 +4313,13 @@ portion of it remained to be brought, and the archbishop found it
 necessary to go a-horseback accompanied by his Majesty's fiscal and
 several others. At twelve o'clock, this task was really finished,
 in which there was necessarily a great waste of this material. When
-they reëntered, some of the ships were almost within cannon-shot,
+they reÃ«ntered, some of the ships were almost within cannon-shot,
 and were threatening in that direction, which is toward the south,
 with respect to the city.
 
 11. The reply of the generals was, with their letter or challenge,
 arrogant, and to the effect that Manila and its forts should be
-surrendered to the king of Gran Bretaña, from whose power the most
+surrendered to the king of Gran BretaÃ±a, from whose power the most
 remote possessions of the Catholic king were not free, whose court,
 through its evil conduct, had proclaimed war against Ynglaterra. If
 the Spaniards of Manila were not infatuated, they would surrender,
@@ -4379,7 +4345,7 @@ to resist the fire from their boats and ships. The people in those
 places got under shelter of two regular companies who were obliged
 to retire. The enemy found all they could need for their rearguard
 and trenches in the strong edifices of the churches of Malate and of
-Nuestra Señora de Guia, whence without loss of time, and with ease
+Nuestra SeÃ±ora de Guia, whence without loss of time, and with ease
 they surrounded and took possession of the equally strong churches of
 San Tiago and San Juan de Bagumbayan, whence it became necessary for
 our men to retire. And although our men made three sallies, the enemy
@@ -4719,7 +4685,7 @@ in virtue of what was discussed in the general council and of present
 circumstances. The superiors and the administrators of said church,
 who were notified thereof, agreed, and they made the delivery without
 any answer or protest; for they saw well that, although the secular
-estate contributed with ¡ts interests in the "Philipino," it would be
+estate contributed with Â¡ts interests in the "Philipino," it would be
 impossible to get during those days a suitable distribution among the
 citizens (and as it seemed), the destruction of the sack had left them
 without money or anything of value, as they declared. Besides all their
@@ -4954,7 +4920,7 @@ prisoners in the city with the archbishop, with their officers, two
 togated ministers, and the officials of the royal treasury (except the
 treasurer), and the majority of the persons composing both cabildos,
 ecclesiastical and secular, various religious of all the communities,
-a convent of nuns, the beateríos and schools of both sexes, and most
+a convent of nuns, the beaterÃ­os and schools of both sexes, and most
 of the citizens of all classes and estates. He has not reflected
 that his obstinacy in this measure in any event and in any manner in
 which it might have any desired effect, resulted, before any injury to
@@ -5543,7 +5509,7 @@ it all the responsibility in regard to said alliance. However, he
 resisted strongly for the reason which he expresses in his reply. But
 this alliance has reached such a point that the government has sent
 Prince Ysrael, son of the said sultan, to Jolo; and then tried to
-get the archbishop to give him a letter for the surrender of Zebù and
+get the archbishop to give him a letter for the surrender of ZebÃ¹ and
 other islands, [162] but its petitions and exigencies to obtain said
 letter were unsuccessful. The archbishop refused to give it for the
 reasons which are expressed in his letters to the British government
@@ -5766,7 +5732,7 @@ must not be omitted.
 
 The first was in December, when the engineer, Don Miguel Gomez, was
 sent, who was equipped as well as possible. The second was in March
-of the present year, by equipping two officers, Don Christoval Ròs,
+of the present year, by equipping two officers, Don Christoval RÃ²s,
 and Don Andres de la Torre; and at the same time in another English
 fragata with sufficient safety and prudent security. He duplicated the
 despatches in two English fragatas, addressed to his agent at Cadiz.
@@ -5807,15 +5773,15 @@ one and one-half tomins, diminished by waste, from the value of their
 stamp, might be received at their intrinsic value; in order that
 in a determined time, the Sangleys might present themselves under
 penalty of two hundred lashes, and confiscation of their property,
-as it was learned that many of the dwellers in the Parián of Manila
+as it was learned that many of the dwellers in the PariÃ¡n of Manila
 had entered Pampanga, and had united with those who resided in the
 villages of the province, and were preparing arms. The object was to
-disarm them and send them to the Parián. But many of them presented
+disarm them and send them to the PariÃ¡n. But many of them presented
 themselves armed and offered to give bonds that they were peaceful
 and that their arms were employed in the service of his Majesty.
 
 He ascertained that the agreement that they had made with the English
-was that one thousand Chinese should enter from the Parián of Manila,
+was that one thousand Chinese should enter from the PariÃ¡n of Manila,
 and distribute themselves through the villages, so that they might
 fire them at that hour of Christmas eve when the natives should be in
 the temples, in order that by reason of the confusion, free entrance
@@ -5836,7 +5802,7 @@ and not carry food or aid the enemy.
 
 Some submitted, but acted deceitfully, introducing false barrillas into
 the villages, withdrawing the pesos, giving information to the enemy,
-and going freely from the Parián of Manila to the provinces. [165]
+and going freely from the PariÃ¡n of Manila to the provinces. [165]
 Others aided the English and supplied them with food. Consequently,
 it was ordered that the alcaldes-mayor should form a list of the
 Sangleys, of their provinces, prohibiting their admission unless they
@@ -5888,7 +5854,7 @@ the fort of Manila had been used by the English as fortifications,
 who committed all manner of profanations, he ordered the necessary
 arrangements to be made in the villages to burn them, if the enemy
 attacked. [167] That order poorly understood, exposed the church of
-Viñan [168] to being unnecessarily burned, but it was saved by order
+ViÃ±an [168] to being unnecessarily burned, but it was saved by order
 of Anda. He also censured the first provision which he had to revoke.
 
 He prosecuted and punished several spies sent by the English to
@@ -5897,7 +5863,7 @@ ascertain what Anda and the loyal troops were doing.
 He permitted free trade among the provinces, so that they might have
 food in abundance. He ordered that all the lands of Pampanga be
 planted, so far as possible, with rice, sugarcane, etc., and that
-land in the village of San Ysidro be given to the Tagálogs who had
+land in the village of San Ysidro be given to the TagÃ¡logs who had
 fled from Manila.
 
 He arranged that the food for the provision of the warehouses be
@@ -5978,7 +5944,7 @@ love and fidelity which each one owes his sovereign as a good vassal:
 the reverend archbishop, who tried by so many methods, to cast to
 the earth this legitimate image which represented and defended your
 royal rights, even to the point of declaring him a traitor, rebel,
-and disobedient to his own sovereign, and to that of Gran Bretaña;
+and disobedient to his own sovereign, and to that of Gran BretaÃ±a;
 or I, who suffering and enduring all these things, made use of your
 royal power, insulted and abased by so many enemies and traitors,
 by making you truly recognized again in these vacillating fields of
@@ -6038,11 +6004,11 @@ wild beasts; that already in one province one of them had elevated
 himself as emperor and refused obedience to your Majesty; that the
 province of Bulacan was in the same condition; that all the others
 would follow their example; that one of these days they would have
-Señor Anda tied up, if they did not first deprive him of life; that
+SeÃ±or Anda tied up, if they did not first deprive him of life; that
 consequently, as it was advisable to the services of both Majesties
 and for the public quiet, and so that so much Christian blood might
 not be shed, his Excellency ought to yield all the islands, and cause
-Señor Anda to descend; that if he did not condescend to do so, nothing
+SeÃ±or Anda to descend; that if he did not condescend to do so, nothing
 else would result than the ruin of all these domains, the loss of
 Christianity, and the execution by the English of the sentence that
 had been pronounced of putting to the sword all the Spaniards; that
@@ -6087,12 +6053,12 @@ on the fourth of November in the terms that his said letter shows,
 [176] and which I myself am ashamed to mention, referring myself to
 the enclosed testimony.
 
-He ordered the alcalde-mayor of Bulacan, Don José Pasarin, who
+He ordered the alcalde-mayor of Bulacan, Don JosÃ© Pasarin, who
 recognized me from the first as your royal Audiencia, to cause all the
 Spaniards and their families to descend to Manila, even threatening
 him with censures if he did not obey. This order included among the
 Spaniards my assembly secretary, my advocate, my fiscal, and Doctor Don
-Domingo Arañaz, [177] one of the advocates of this city. But neither
+Domingo AraÃ±az, [177] one of the advocates of this city. But neither
 they nor said alcalde-mayor, recognizing the very great service which
 was being done for his Majesty and for religion in [not] consenting
 to the ideas of the reverend archbishop to deprive me of those whom I
@@ -6160,7 +6126,7 @@ have maintained an indifferent attitude in the condition of prisoner.
 
 What Catholic and loyal vassal of your Majesty could see without
 great grief a pastor persuading his sheep in said letters that they
-should submit to Gran Bretaña? Further on, he says: "If you do as I
+should submit to Gran BretaÃ±a? Further on, he says: "If you do as I
 exhort and advise you, you will receive the reward from God, and for
 the contrary, the punishment; and if you observe, this, you will be
 good vassals of my king and my faithful children."
@@ -6202,7 +6168,7 @@ does not serve as an excuse to the reverend archbishop; or that he
 had hopes of again holding such office by the right of postliminy: for
 this at most does not go beyond honors, and hopes are kept without in
 any way becoming real, for this office was confirmed in me already by
-virtue of laws lvii and lviii, book ii, título xv of the Recopilación;
+virtue of laws lvii and lviii, book ii, tÃ­tulo xv of the RecopilaciÃ³n;
 [178] and even according to the first, by the right of postliminy,
 the reverend archbishop had no right to administer that office, again,
 since it orders expressly that when your royal Audiencia assumes the
@@ -6224,7 +6190,7 @@ greatest contempt, and confessed that I was acting as a loyal vassal
 of your Majesty, he would never relinquish the title of governor,
 or recognize in me your royal Audiencia, in accordance with the laws;
 and he died in the same conviction, as one may see by his last will,
-when he left to the governor, who should come from España, a carriage
+when he left to the governor, who should come from EspaÃ±a, a carriage
 and its horses, so that he might make use of it, and ordered this
 cabildo to deliver to the same a sealed box, containing the papers,
 which were to be sent to your Majesty. Thus was it done without any
@@ -6355,7 +6321,7 @@ at the palace, examined all the walls, its strength, the beach, even
 the powder factory, sounded the entire bay, and information having
 been given to the fort of this innovation, by a sentinel, yet he was
 allowed to go out freely when he pleased. For those special favors,
-the said governor of Madrás gives him [i.e., the archbishop] many
+the said governor of MadrÃ¡s gives him [i.e., the archbishop] many
 thanks, and although it is not expressed in the letters, the head of
 the staff which he sends him. The said governor of Zamboanga sent it
 as a gift from the English to the reverend archbishop, who did not
@@ -6421,12 +6387,12 @@ without opposition. The fifteen ships cannonaded to no purpose; and
 because a cannon caused the greatest ship to retire, order was given
 not to fire from the fort without orders, and that it was to be used
 for the attack by land. Some commanded, others countermanded, because
-they asserted that they would anger the English more. A reënforcement
+they asserted that they would anger the English more. A reÃ«nforcement
 of drilled Indians came, but they were not allowed to make a sally,
 for the archbishop-governor said that it was better to seize the enemy
 without grievously vexing him. In a sally, the Indians reached quite
 to the artillery abandoned by the English. The enemy rallied, and the
-Indians not having any disciplined reënforcement, fell back. Four days
+Indians not having any disciplined reÃ«nforcement, fell back. Four days
 of heavy rains, and boisterous winds, which God sent, and by which
 one ship was driven ashore, and the others endeavored only to look
 out for themselves, gained nothing for the obstruction of the English,
@@ -6467,14 +6433,14 @@ so as by a miracle, having retired to Pampanga. The English wished
 to first conquer Pasig, which was guarded by Indians. They attained
 their end after a short bombardment, and opened a passage to the
 provisions of Laguna. They thought it best also to go to Pampanga
-to destroy Señor Anda, but having been attacked about one legua or
-so from Manila by Señor Anda's men, they were completely routed,
+to destroy SeÃ±or Anda, but having been attacked about one legua or
+so from Manila by SeÃ±or Anda's men, they were completely routed,
 and left many slain. The survivors fled to Manila as best they could,
 notwithstanding that a third part of our men, deceived by the traitors
-of Manila, did not attack, contrary to the order of Señor Anda. The
+of Manila, did not attack, contrary to the order of SeÃ±or Anda. The
 English and their allies, our traitors, seeing that it was difficult
 by force, devoted their energies to trickery. First, they tried to
-induce the Chinese to kill Señor Anda, as he was now cried by heralds
+induce the Chinese to kill SeÃ±or Anda, as he was now cried by heralds
 as a traitor to the king and a reward of two or four thousand pesos
 promised to whomever should kill and deliver him up. The Chinese had
 agreed upon the fitting night to kill him and all the Spaniards of his
@@ -6485,7 +6451,7 @@ malice or through ignorance, the latter said whatever came into his
 head. Thereupon, he made use of a Dominican Chinese, who declared the
 treason of the letter. Days before the arrival of this declaration,
 everything was already known, because a Chinese fired a blunderbuss at
-Señor Anda which only damaged his coat. Thereupon, he seized as many
+SeÃ±or Anda which only damaged his coat. Thereupon, he seized as many
 Chinese as he could with his small troop of Spaniards and Indians, and
 after taking their depositions had them hanged. There were more than
 two hundred [of them]. Many others who escaped informed the English
@@ -6511,7 +6477,7 @@ it cost them many people, they seized the church, for the Spaniards
 ran short of powder, as the Indians, induced by the Spaniards of
 Manila, had hidden it. But the loyal Spaniards of Bulacan, by means
 of stratagem and trickery, held the English besieged in the same
-church. Three times did the latter receive reënforcements of supplies
+church. Three times did the latter receive reÃ«nforcements of supplies
 and men from Manila, but they were never able to pass. Finally, those
 who were left returned to Manila with great loss. And not even one
 would have returned had it not been that continually, because of the
@@ -6596,7 +6562,7 @@ other auditors of that Audiencia having been made prisoners of war
 in Manila, Don Simon not having been included among them because of
 being in the village of Bulacan at that time, attending to the general
 inspection of all the provinces of the district of that Audiencia,
-in accordance with the order and prescription of law clxxx of título
+in accordance with the order and prescription of law clxxx of tÃ­tulo
 xv, book ii of the laws of the Yndias, by which it is ordered that if
 the auditors of the Audiencia are absent and only one of them remain,
 the Audiencia is to be conserved and continued in him as said governor
@@ -6689,7 +6655,7 @@ theirs, offering ten thousand pesos to whomever would deliver alive
 or dead each one who had signed the edict [against him]. Finally,
 there was a suspension of hostilities until the evacuation of the
 fort. During this interim, the province of Ylocos revolted and
-rendered homage to the king of Gran Bretaña. At its head was Diego
+rendered homage to the king of Gran BretaÃ±a. At its head was Diego
 Silan, a Pangasinan Indian, a plebeian, who, according to public
 report, had been a coachman in Manila. He succeeded in getting the
 English to appoint him alcalde-mayor for life of that jurisdiction,
@@ -6801,7 +6767,7 @@ from the trench that they had flung their banner to the breeze,
 with a shot from a cannon of the caliber of four, and two shots
 from falconets. Thereupon, Don Pedro Hernani, lieutenant of Spanish
 infantry, with one sergeant, one corporal, and twenty soldiers, began
-to cross the river in pursuit of the Cagayans, leaving Alférez Don Jose
+to cross the river in pursuit of the Cagayans, leaving AlfÃ©rez Don Jose
 Solorzano as a reserve. Don Pedro Hernani invested the trenches with
 so great courage, that he succeeded in taking the banner from them,
 although he suffered the misfortune of being run through the breast
@@ -6852,7 +6818,7 @@ one being able for this reason to attribute it to disloyalty.
 
 Lastly, he gives account of the measures which he took in order to
 continue the aid which had been established on his Majesty's account
-in honor of Fernando I, king of Joló. He states that, at the beginning
+in honor of Fernando I, king of JolÃ³. He states that, at the beginning
 of the expedition, the king showed himself loyal to his Majesty, and
 recognized Don Simon as Audiencia, and governor, asking him to assign
 him to those provinces or to send him to his country, whence he would
@@ -6861,10 +6827,10 @@ would transfer him to Pampanga, he promptly arranged his voyage, and
 having arrived at the village of Pasig, he was overtaken by an accident
 which impeded him for six days. During that interim, the enemy made him
 a prisoner. The English, taking advantage of the occasion, sent him
-to Joló. Afterward when the English evacuated Manila, they took the
+to JolÃ³. Afterward when the English evacuated Manila, they took the
 prince Ysrael and all those of his kingdom. It was presumed that the
 English had made some agreement with him, so that they might establish
-themselves in Joló. That would be to the great prejudice of the Visayan
+themselves in JolÃ³. That would be to the great prejudice of the Visayan
 provinces and their trade both because of the English and the Moros.
 
 In a separate measure, both Don Simon de Anda, in his representations,
@@ -6896,7 +6862,7 @@ English, and the atrocities which they committed. He publicly ordered
 their rites, and concluded with petitioning the total expulsion of
 the Sangleys who have kept the title of Christian, as was done with
 the infidels; in which Don Simon and the ecclesiastical estate also
-coöperate with convincing and practical reasons.
+coÃ¶perate with convincing and practical reasons.
 
 From all the above, it results from this extract that measures could
 have been taken in regard to only the two matters: one in regard to
@@ -6979,7 +6945,7 @@ and put on Board the Squadron, and sent to the Coast of India as such."
 
 These Terms they accepted; and whilst the Articles were settling,
 they pleaded their Inability to raise immediately the Sum demanded,
-unless we would admit the Phillipina (which was arrived ¡n the Port of
+unless we would admit the Phillipina (which was arrived Â¡n the Port of
 Pallapa, on the Island of Semar from Acapulca) into the Capitulation,
 and the Vice Roy to send Letters to the General that commanded her,
 to deliver her up to our Ships, which had been sent after her; to which
@@ -7466,8 +7432,8 @@ by taking Care that all the Ransom Bills, due even to the Enemy's
 Privateers, should be most punctually paid, since the Conclusion of
 the Peace. Surely such upright Proceedings on our Side will infuse
 the same religious Observance of good Faith in all concerned in this
-Business. Otherwise we must say with Grotius, ab Injustitiâ excusari
-nequeunt, qui, cum pacta improbent, tamen retinent, quæ, sine pactis
+Business. Otherwise we must say with Grotius, ab InjustitiÃ¢ excusari
+nequeunt, qui, cum pacta improbent, tamen retinent, quÃ¦, sine pactis
 non haberent. "They cannot avoid the Imputation of Injustice, who
 disapprove of Treaties, and yet keep Possession of what they could
 not have been possessed of, but by the Means of those Treaties."
@@ -7632,10 +7598,10 @@ Bisayas have been captured or killed. May God bring us a governor,
 may God bring us some auditors, who shall recognize and appreciate
 the defense of the Catholic religion and of the poor Indians!
 
-The estates of Calatagán and Looc, burned and sacked by the Moros; the
+The estates of CalatagÃ¡n and Looc, burned and sacked by the Moros; the
 estates of Meysilo and La Piedad, burned and sacked by the Christians;
 that of San Pedro Tunasan, sacked by the Indians, commanded by six
-Franciscan friars; Lian and Nasugbú delivered to the Joloan [? Jelaco
+Franciscan friars; Lian and NasugbÃº delivered to the Joloan [? Jelaco
 in transcript] king by treaty; that of Naic abandoned to the robbers;
 San Pedro Macati burned by the English, with the exception of the
 house and church! Those which have suffered less are Marquina, Payatas,
@@ -7655,7 +7621,7 @@ be paid here, and from those of here, for ... in order to pay from
 the treasury of Mexico. Consider, your Reverence, what must be the
 condition of this po[or] province.
 
-There is another war declared, in which Señor Galban has unfurled
+There is another war declared, in which SeÃ±or Galban has unfurled
 the banner against [the] pious [funds]. He declares that the pious
 funds are the ruin of [trade] and of the islands; as if the trade
 of the islands had any other foundation. I, ... procurator, have
@@ -7663,7 +7629,7 @@ come to the opinion that God is abandoning this His kingdom; ... I
 doubt that on other occasions, there may have been greater or equal
 mi[sfortunes], but surely, the ministers of the king, our sovereign,
 must have had more application and better intentions. It might be
-that Señor Cegado has them, since he is ... it. They pass no measure
+that SeÃ±or Cegado has them, since he is ... it. They pass no measure
 that is not intended for the ruin, and tell ... the liberty in which
 they live, would be to paint a detesta[ble] and scandalous community.
 
@@ -7674,7 +7640,7 @@ seventh command[ment] and named the kinds of robbers that existed. He
 named alcaldes-[mayor?] of provinces, adding what St. Xavier said of
 these at seeing ... that they received the decree deleantur de libro
 viventium. [211] On the ... day, while I was resting, I received a
-bloodthirsty denunciation from Señor Galban, which I [sho]wed to Father
+bloodthirsty denunciation from SeÃ±or Galban, which I [sho]wed to Father
 Puch, who explained on Sunday afternoon in great-detail what I have
 mentioned, and what he ought to say. But on the third day, I received a
 royal provision passed by an extraordinary meeting of the assembly, in
@@ -7708,7 +7674,7 @@ that the matter will be neglected in Madrid, and the connivance of
 our procurators; but for this I also ask the remedy farther on.
 
 A boat was built in Pangasinan in order that it might be sent to
-Nueva España. It was launched in the middle of May in a river, but
+Nueva EspaÃ±a. It was launched in the middle of May in a river, but
 it could not get out because of the bar. Means are being discussed,
 hopes abound, but it is now considered impossible for a voyage to
 be made this year. The "Santa Rosa" was expected at the end of May,
@@ -7719,10 +7685,10 @@ today, June 17. If there is anything to add later, I will add it in
 a separate paragraph, or in another letter.
 
 The "Santa Rosa" arrived July 3, with the new governor. The "Santa
-Rosa" is being prepared for its return trip to México, for the ship
+Rosa" is being prepared for its return trip to MÃ©xico, for the ship
 of Azevedo has not arrived, and is not expected, although it left
 the bar on the third of this said month. The boat of Misamis is
-being equipped for México. I do not consider it necessary to give
+being equipped for MÃ©xico. I do not consider it necessary to give
 instructions to your Reverence, for I expect that without them,
 you will perform the duties of your post fully, and our friendship.
 
@@ -7749,18 +7715,18 @@ REFERENCES
 Accounts of the capture and occupancy of Manila, and contemporaneous
 events, will be found in the following:
 
-1. Vivar, Pedro del, O.S.A.--Relación de los alzamientos de la ciudad
-de Vigan, cabecera de la provincia de Ilocos, en los años de 1762 y
+1. Vivar, Pedro del, O.S.A.--RelaciÃ³n de los alzamientos de la ciudad
+de Vigan, cabecera de la provincia de Ilocos, en los aÃ±os de 1762 y
 1763. Composed in 1764; published as part of vol. iv, of Biblioteca
-Histórica Filipina. An account of the insurrections of Diego Silán
-and Nicolás Cariño.
+HistÃ³rica Filipina. An account of the insurrections of Diego SilÃ¡n
+and NicolÃ¡s CariÃ±o.
 
-2. Castro, Agustin Maria de, O.S.A.--Reseña sobre la guerra de los
+2. Castro, Agustin Maria de, O.S.A.--ReseÃ±a sobre la guerra de los
 ingleses ca. 1765. MS. in Augustinian archives, Manila; and a copy
 of which is owned by Eduardo Navarro, O.S.A., at Valladolid. Cited
-by Montero y Vidal, and by Pérez (Catálogo).
+by Montero y Vidal, and by PÃ©rez (CatÃ¡logo).
 
-3. Le Gentil de la Galaisière, Guillaume Joseph Hyacinthe Jean
+3. Le Gentil de la GalaisiÃ¨re, Guillaume Joseph Hyacinthe Jean
 Baptiste.--Voyage dons les mers de l'Inde (Paris, 1779-1781), ii,
 chapter ii, articles xvii and xviii, pp. 230-275. This book contains
 the Journal of Archbishop Rojo concerning the siege. Le Gentil
@@ -7769,11 +7735,11 @@ his friendship for Rojo's nephew passes a severe criticism on Anda,
 which has caused him in turn to be criticised by the Spaniards.
 
 4. Malo de Luque, Eduardo (pseudonym of Duke of Almodovar).--Historia
-política de los establecimientos ultramarinos de las naciones europeas
+polÃ­tica de los establecimientos ultramarinos de las naciones europeas
 (Madrid, 1784-1790), v, chaps. ix, and x, pp. 234-310. Contains many of
 the original documents and letters connected with the conquest period.
 
-5. Martinez de Zúñiga, Joaquin, O.S.A.--Historia de las Islas
+5. Martinez de ZÃºÃ±iga, Joaquin, O.S.A.--Historia de las Islas
 Philipinas (Sampaloc, 1803), chaps. xxxiii-xxxvii, pp. 601-687. Treats
 of siege, capture, insurrections, operations of Anda, and the peace.
 
@@ -7789,15 +7755,15 @@ Filipinas (Madrid, 1871), iv, chaps. viii-x, pp. 611-742; v, chap. i,
 pp. 1-25. Contains Dominican history and general account of the
 conquest, etc.
 
-9. Montero y Vidal, José.--Historia general de Filipinas, ii,
+9. Montero y Vidal, JosÃ©.--Historia general de Filipinas, ii,
 chaps. i-iii, and part of iv, pp. 7-119; and portion of appendix, where
 he gives various documents of conquest period. Uses foregoing freely.
 
-10. Jordan de Urries, Pedro, marqués de Ayerbe.--Sitio y conquista
+10. Jordan de Urries, Pedro, marquÃ©s de Ayerbe.--Sitio y conquista
 de Manila por los Ingleses en 1762 (Zaragoza, 1897). Based on
 ordinary authorities, and especially on an unpublished MS. written
-by Alfonso Rodríguez de Ovalle, to the marqués de Cruillas, ancestor
-of the marqués de Ayerbe, which is conserved in the library of the
+by Alfonso RodrÃ­guez de Ovalle, to the marquÃ©s de Cruillas, ancestor
+of the marquÃ©s de Ayerbe, which is conserved in the library of the
 latter. Ovalle sailed on the "Santa Rosa" with royal despatches
 notifying the city of Manila of the treaty of peace between Spain
 and England. While in the Philippines, he wrote a minute journal,
@@ -7805,7 +7771,7 @@ accompanying it with plans and statistics, of the late events in
 Manila and the provinces. The dates of this journal are September 13,
 1762-March 13, 1764.
 
-11. Diez Aguado, Manuel, O.S.A.--Biografia del P. Agustín Ma. de
+11. Diez Aguado, Manuel, O.S.A.--Biografia del P. AgustÃ­n Ma. de
 Castro, Agustino (Barcelona, 1902). This contains a short account
 of the siege and capture of Manila. It is drawn in large part from
 Augustinian sources. The author has had the benefit also of manuscript
@@ -7820,7 +7786,7 @@ of no. 10, by Capt. A. C. Macomb, 5th U. S. Cavalry; rather free
 translation. Contains many half-tone reproductions of Manila walls
 and fortifications.
 
-13. MSS. in the Archivo general de España, at Simancas; estado
+13. MSS. in the Archivo general de EspaÃ±a, at Simancas; estado
 6958.--Concerning the capture, sack, capitulation, and surrender
 of Manila, the propositions of the English, its recovery, etc.;
 1762-1765. This contains also the documents regarding the capture of
@@ -7876,17 +7842,17 @@ in Filipinas, 1762-1764."
 9. Rojo's narrative.--From original MS., entitled "Operations in
 Manila."
 
-10. Synopsis of letter to Cárlos III.--From Ventura del Arco
+10. Synopsis of letter to CÃ¡rlos III.--From Ventura del Arco
 transcripts, iv, pp. 641-649.
 
-11. Letter to Cárlos III.--From Ventura del Arco transcripts, iv,
+11. Letter to CÃ¡rlos III.--From Ventura del Arco transcripts, iv,
 pp. 597-620.
 
-12. Synopsis of communications to Cárlos III.--From Ventura del Arco
+12. Synopsis of communications to CÃ¡rlos III.--From Ventura del Arco
 transcripts, iv, pp. 621-640.
 
 The following are from the original MSS. in the Archivo general de
-Simancas, all bearing pressmark "Secretaría de Gracia y Justicia;
+Simancas, all bearing pressmark "SecretarÃ­a de Gracia y Justicia;
 leg. 691."
 
 13. Letter to Gonzalez.
@@ -7916,14 +7882,14 @@ NOTES
 [1] This paragraph was canceled by its author. A sidenote reference
 at this point is to San Antonio's Cronicas de ... San Gregorio.
 
-[2] Probably the island of Busuañga, the largest of the Calamianes
+[2] Probably the island of BusuaÃ±ga, the largest of the Calamianes
 Group; spoken of previously as Buvugan.
 
 [3] A sidenote reference at this point is to Colin's Labor evangelica,
 and San Antonio's Cronicas.
 
 [4] The Manila galleon captured by Anson, whose real name was
-"Nuestra Señora de Cabadonga." See the account of its capture in
+"Nuestra SeÃ±ora de Cabadonga." See the account of its capture in
 Kerr's Hist. and Coll. of Voyages, xi, pp. 489-501.
 
 [5] Opposite this point is a sidenote reference to Colin, apparently
@@ -7948,9 +7914,9 @@ near Cape de Gatt. He also performed numerous other services of
 the same kind, and took and destroyed a fleet of zebecks laden with
 provisions. In 1756 he was captain of the "Stirling Castle," a vessel
 carrying 480 men, most of them the refuse of jails and the scum of
-the streets. In 1759 he was sent with reënforcements to the East
+the streets. In 1759 he was sent with reÃ«nforcements to the East
 Indies, in the "Lenox," Captain Robert Jocelyn commanding, where he
-was reënforced in 1760 with five ships. He was at the reduction of
+was reÃ«nforced in 1760 with five ships. He was at the reduction of
 Pondicherry in 1760, and at the reduction of Mahe in 1761. Thence
 he went to Bombay to refit, and went to meet Commodore Keppel for
 the attack of Bourbon and Mauritius, although these orders were
@@ -8009,10 +7975,10 @@ useless. Their men left the other lanchas with the water up to their
 breasts carrying their muskets and cartridge-boxes on their heads. Amid
 this discomfort, two hundred men reached the beach. They immediately
 formed ranks and allowed the others to disembark more quietly. See
-Martinez de Zúñiga's Historia, pp. 604, 605.
+Martinez de ZÃºÃ±iga's Historia, pp. 604, 605.
 
 [15] i.e., The small island of Cahayagan, at the west entrance to
-port of Palápog, north of Samar Island.
+port of PalÃ¡pog, north of Samar Island.
 
 [16] The "Panther" carried sixty-four guns, and the "Argo" thirty. See
 Montero y Vidal, ii, p. 15.
@@ -8043,7 +8009,7 @@ pp. 219-221; Dublin Magazine, 1763, pp. 255-257; Universal Magazine,
 
 [20] i.e., The Naranjos Group lying in the strait of San Bernardino,
 south of Sorsogon, and consisting of six small islands: San Andres,
-Medio, Escarpada, Aguada, Dársena, and Rasa.
+Medio, Escarpada, Aguada, DÃ¡rsena, and Rasa.
 
 [21] Its artillery was in the hold, and it only carried above hatches,
 five cannons of the caliber of eight, and four of the caliber of
@@ -8223,7 +8189,7 @@ From Mr. Ramsay             21 Janry 1763
 
 Sir
 
-I am directed by the Hoñble the Presedt, and Council to tend you
+I am directed by the HoÃ±ble the Presedt, and Council to tend you
 the accompanying copy of a Paragraph of a Letter from the Chief and
 Factors at Tellicherry containing the agreeable news of the surrender
 of manila to his majesty's arms on which important acquisition,
@@ -8274,7 +8240,7 @@ From Mr. Ramsay Secretary     2d February (sic) 1763
 
 Sir
 
-I am directed by the Hoñble the President and Council to send you the
+I am directed by the HoÃ±ble the President and Council to send you the
 enclosed attested Copy of a Paragraph of a Letter received yesterday
 from the Chief and Factors at Tellicherry and to acquaint you that
 the Tartar snow, which has hither to been detained at Surat Bar,
@@ -8322,7 +8288,7 @@ S. L. M.
 
 
 A letter from "Captain Duff of the 89th Regimt.," dated "Fort
-St. George 24 Jañry 1763" contains the following:
+St. George 24 JaÃ±ry 1763" contains the following:
 
 "In my letter sent by Captn Morrison I mentioned the news of this
 place at that time, in particular the arrival of Captain Wood of the
@@ -8331,7 +8297,7 @@ that place to General Draper the 6th of last October he says that
 the Field officers have all made their fortunes and that General
 Draper with Colonel Scott and two or three more officers were to go
 home in November on board the seahorse man of War. It is said each
-of the field officers have Cleared £ 12,000 and in the event of the
+of the field officers have Cleared Â£ 12,000 and in the event of the
 acapulco ship being taken, of which they seemed to be pretty certain
 they should share very near as much more. The General and admirals
 shares are prodigious."
@@ -8438,7 +8404,7 @@ who had been sent for its defense fled on seeing the British before
 them, with the exception of twenty-five men, under Captain Baltasar
 Cosar. See Sitio y conquista de Manila, p. 38.
 
-[37] Called César Fallet in the Spanish accounts, but Le Gentil
+[37] Called CÃ©sar Fallet in the Spanish accounts, but Le Gentil
 gives his name as Fayette. He was a French officer then in the Spanish
 service, and was later at Pondicherry. See post, Rojo's Journal. Rojo's
 account makes the Spanish force larger.
@@ -8446,12 +8412,12 @@ account makes the Spanish force larger.
 [38] The council of war called on the twenty-fifth of September
 (the twenty-sixth, English date) because of the English summons for
 surrender, was attended by the following, under the presidency of
-the archbishop: Auditors Villacorta, Galbán, and Anda; the fiscal
+the archbishop: Auditors Villacorta, GalbÃ¡n, and Anda; the fiscal
 Francisco Leandro de Viana; the marquis de Villamediana, master-of-camp
 and commandant of the garrison; Martin de Goicocoa, sargento-mayor
 of the city; the marquis de Monte-Castro y Llana Hermosa, Leandro
-Rodríguez Varela, alcalde-in-ordinary; José Antonio Memije y Quirós,
-alguacil-mayor; Antonio Díaz Conde, provincial alcalde of the
+RodrÃ­guez Varela, alcalde-in-ordinary; JosÃ© Antonio Memije y QuirÃ³s,
+alguacil-mayor; Antonio DÃ­az Conde, provincial alcalde of the
 Hermandad; Alberto Jacinto Reyes, accountant; and Fernando Carabeo,
 royal official. After Draper's letter was read, all voted unanimously:
 "That inasmuch as this place was in condition to continue its defense,
@@ -8527,12 +8493,12 @@ British, with horrible carnage. See Montero y Vidal, ii, pp. 27, 28.
 
 [45] The captors imposed several contributions on the conquered. They
 seized a champan and its money and effects that was despatched without
-a passport by Fernando Calderón to the provinces for purposes of
+a passport by Fernando CalderÃ³n to the provinces for purposes of
 trade. See Sitio y conquista, p. 70.
 
 [46] At the assault of the royal gate, the enemy lost but four men, one
 of whom was a major, who received an arrow in the face. The commander
-of the regiment, Miguel Valdés and some men basely fled. See Sitio
+of the regiment, Miguel ValdÃ©s and some men basely fled. See Sitio
 y conquista, pp. 60, 61.
 
 [47] Published with the following appendices in London Gazette, 1763;
@@ -8573,7 +8539,7 @@ Draper demanded the immediate delivery of eight million escudos,
 the equivalent of four million pesos.
 
 [54] "After consulting the royal assembly of these islands the governor
-replied: 'Gran Bretaña must know already that fear and threats are not
+replied: 'Gran BretaÃ±a must know already that fear and threats are not
 the securest method nor the most fitting means to celebrate treaties
 with the noble servants of the Spanish sovereign. History has shown the
 world that Spaniards know how to die like good men for their God, for
@@ -8589,7 +8555,7 @@ the defense of the city," which they did gladly. Later, he ordered
 all the orders to furnish soldiers, and many of the religious entered
 the ranks. See Sitio y conquista, pp. 39, 50.
 
-[56] "These were the two churches that Arandía desired to have
+[56] "These were the two churches that ArandÃ­a desired to have
 demolished one year before his death, and for which the friars tried
 to excommunicate him. It is quite certain that these two citadels
 which were only eighty toises from the body of the city, hastened and
@@ -8605,7 +8571,7 @@ and other objects of value. See Sitio y conquista, p. 42.
 [58] The Marquis de Ayerbe (Sitio y conquista) gives this force
 as consisting of two companies of fifty Spaniards, and more than
 two hundred Indians and mestizos with spears, muskets, and two
-eight-pounders. He was seconded by José del Busto.
+eight-pounders. He was seconded by JosÃ© del Busto.
 
 [59] Of this sortie, Le Gentil says (ii, p. 243): "This sortie was only
 a kind of boast and bravado, for how could one flatter himself, with at
@@ -8615,7 +8581,7 @@ thousand men of good troops, withdrawn into two or three citadels,
 which it would really have been necessary to have besieged in order
 to try to dislodge them; for the walls of all these churches are made
 of cut stone, and are as thick as the walls of the royal observatory,
-namely, five or six feet thick, and are octagonal." The reënforcements
+namely, five or six feet thick, and are octagonal." The reÃ«nforcements
 sent to Fayette consisted of two Spanish companies and 1,500 Indians,
 commanded by Pedro Iriarte; and later one other company commanded by
 Fernando de Araya.
@@ -8651,18 +8617,18 @@ all military matters to the sargentos-mayor of Manila and Cavite,
 but the latter refused to do so. See Montero y Vidal, ii, p. 17.
 
 [61] On the twenty-sixth 3,000 Indian archers from the provinces
-of Pampanga, Bulacán, and Laguna; but neither these volunteers nor
+of Pampanga, BulacÃ¡n, and Laguna; but neither these volunteers nor
 4,000 others armed with quivers, who joined later were very greatly
 feared by the English because of their inexperience in the art of war
 and their primitive armor. A contemporary paper gives the following
 data: "Report of the men-at-arms whom it has been possible to collect
 inside and outside the place, without including the troops or militia:
-600 men from the province of Bulacán, in Bancusay; 1,950 Pampangos,
+600 men from the province of BulacÃ¡n, in Bancusay; 1,950 Pampangos,
 in San Fernando and the barracks of the accountancy; 150 Pampangos in
-the palace, in charge of Santa María; 133 men in the archiepiscopal
+the palace, in charge of Santa MarÃ­a; 133 men in the archiepiscopal
 house, 38 of them with muskets being Tagalogs; 110 men from Meycaoyan
 and Bocaue, in the house of Dorado; 153 men from Hagonoy; 150 men
-from Bulacán; 60 from Guiguinto; 72 from various villages; total
+from BulacÃ¡n; 60 from Guiguinto; 72 from various villages; total
 3,378." See Montero y Vidal, ii, p. 18.
 
 [62] He refused absolutely to accept the freedom offered him by Draper
@@ -8675,24 +8641,24 @@ of the Audiencia, and some of the citizens, on the twenty-ninth,
 but that they were quickly put to flight by the English fire.
 
 [64] September 30, the Spaniards received a reinforcement of 609
-men from Bulacán, as follows: from Paombong, 82 men, under command
+men from BulacÃ¡n, as follows: from Paombong, 82 men, under command
 of Sebastian Lorenzo; Bocaue, 149 men, under command of Augusto
 Percumenla; Calumpit, 16 men, under Juan Panganiban; Malolos, 45 men,
 under Anastasio Bautista; Obando, 53 men, under Pedro C. Salvador;
-Angat, 79 men, under Nicolás de Aquino; San José, 30 men, under
-Nicolás Matías; Polo, 75 men, under Juan Roque; and Bigáa, 80 men,
+Angat, 79 men, under NicolÃ¡s de Aquino; San JosÃ©, 30 men, under
+NicolÃ¡s MatÃ­as; Polo, 75 men, under Juan Roque; and BigÃ¡a, 80 men,
 under Domingo Francisco. See Montero y Vidal, ii, p. 21. On the first
 and second of October they were furnished with arrows, spears, and
 other weapons (Sitio y conquista, pp. 51, 52).
 
 [65] At dawn of the third of October, a sally was made by 2,000
 Pampangos arranged in three columns: the first in command of Francisco
-Rodríguez and their valiant leader Manalastas; the second in command
-of Santiago Orendaín; and the third, in command of the volunteers
+RodrÃ­guez and their valiant leader Manalastas; the second in command
+of Santiago OrendaÃ­n; and the third, in command of the volunteers
 Esclava and Busto. The first reached the church of Santiago, which
 they found empty, but were driven thence by the British. The second
 bore down upon Ermita, where they were at first successful, but were
-speedily driven back by the British, with a loss of 200 men, Orendaín
+speedily driven back by the British, with a loss of 200 men, OrendaÃ­n
 fleeing at the beginning of the engagement, which is regarded as proof
 of his treachery. The third column, which was to have attacked by
 the sea side, grew faint hearted and retreated. Many natives, alarmed
@@ -8703,13 +8669,13 @@ captured, returned to their homes. See Montero y Vidal, ii, pp. 22, 23.
 at the council held by the archbishop on the third of October,
 but their advice was overruled by the marquis de Monte-Castro,
 the magistrates, the religious, and the merchants. This council,
-as is evident from the record by Orendaín, the government secretary,
+as is evident from the record by OrendaÃ­n, the government secretary,
 was called on account of a threatening letter from the British. See
 Montero y Vidal, ii, pp. 23-25, and note; and post, pp. 206-208.
 
 [67] Some religious were ordered by the marquis de Monte-Castro to lead
 some Indians to the foundry to make tools for making the ditch. But
-this was not done, in spite of Father Pascual Fernández, of the
+this was not done, in spite of Father Pascual FernÃ¡ndez, of the
 Society of Jesus, teacher of mathematics, and the other religious,
 having worked with the greatest zeal. See Sitio y conquista, p. 56.
 
@@ -8724,7 +8690,7 @@ of Santiago, but the archbishop did not permit them to fire, as he
 feared the vengeance of the English general. See Montero y Vidal,
 ii, p. 28.
 
-[70] At the Parián gate, the resistance was but slight. Seventeen
+[70] At the PariÃ¡n gate, the resistance was but slight. Seventeen
 of the British were killed there, and but five of the Spaniards. See
 Sitio y conquista, p. 61.
 
@@ -8849,7 +8815,7 @@ taken by assault."
 
 [75] Anda's baptismal record which is published by Montero y Vidal, ii,
 appendix, pp. 606, 607, shows that he was baptized in the church of San
-Esteban Protomártir in the village of Subijana de Alava on October 23,
+Esteban ProtomÃ¡rtir in the village of Subijana de Alava on October 23,
 1709. His burial (ut supra, p. 608) is noted in the burial book of
 the Manila cathedral under date of October 31, 1776. He was buried
 by the famous archbishop, Basilio Sancho de Santa Justa y Rufina,
@@ -8868,7 +8834,7 @@ cordial relations with the enemy. In the summary exposition which was
 sent to the pope regarding this matter, it was shown that they preached
 against the government, and that their provincial had illicit relations
 with Draper during the occupancy of Manila. This was partly the reason
-for their expulsion by Cárlos III. In the archives at Simancas, legajo
+for their expulsion by CÃ¡rlos III. In the archives at Simancas, legajo
 288 of "Gracia y justicia," exists a document charging the Jesuits
 as traitors for their action during the war with the British. See
 Montero y Vidal, ii, p. 36, and note. See the letter, post, in which
@@ -8911,23 +8877,23 @@ until one is sent who shall have powers to act as such by our orders,
 unless the opposite or contrary is ordered in some Audiencias by the
 laws of this book." [Felipe II, Toledo, May 25, 1596, ordinance 43,
 concerning Audiencias; Felipe IV, Madrid, April 8, 1629; and in this
-Recopilación.]
+RecopilaciÃ³n.]
 
 [81] This testimony, which is given by Mas, i, pp. 139-141, and
 Montero y Vidal, Historia, ii, appendix, pp. 577-579, notes that
 Anda was appointed by the archbishop, in his capacity of governor
 and captain-general, as lieutenant governor and captain-general of
 the islands, in due form, sealed with the arms of the archbishop
-and countersigned by Ramón Orendain, chief government secretary,
+and countersigned by RamÃ³n Orendain, chief government secretary,
 on October 1. On the same day he was appointed visitor general, by
 the royal Audiencia, of all the provinces of the islands, the royal
 provision therefor being despatched with the royal seal registered by
-Andres José Rojo, lieutenant of the grand chancellor, and countersigned
+Andres JosÃ© Rojo, lieutenant of the grand chancellor, and countersigned
 by Juan de Monroy, assembly secretary. He was received in his official
 capacity in the province of Bulacan, and when, on the fifth, news was
 received of the assault and capture of Manila by the British, upon him
 devolved the duties of the royal Audiencia, and of the governor and
-captain-general. The treasurer Nicolás de Echauz Beaumont was ordered
+captain-general. The treasurer NicolÃ¡s de Echauz Beaumont was ordered
 to move the moneys in his charge into the interior. Accordingly he
 went to the province of Laguna, but for greater security was ordered
 to go later to Pampanga.
@@ -8968,7 +8934,7 @@ worship if they did not aid the Spaniards. See Ingleses en Filipinas
 
 [89] Published by Montero y Vidal, in his Historia, ii, appendix,
 pp. 587-589. It is dated October 28 in this version, and is signed by
-Juan Monroy and Ramon de Orendaín, in addition to the archbishop. It
+Juan Monroy and Ramon de OrendaÃ­n, in addition to the archbishop. It
 is also contained in another MS. belonging to Edward E. Ayer, where
 it is dated October 28.
 
@@ -9006,7 +8972,7 @@ the signal services of Anda.
 [96] The provincial and all the fathers of the college of Santa Cruz
 were imprisoned on mere suspicion; and the same was done with the
 prior of the Augustinian convent. All the religious and students of
-Santo Tomás were imprisoned, and charged with urging the soldiers
+Santo TomÃ¡s were imprisoned, and charged with urging the soldiers
 to desert. The British took advantage of this to search the convents
 and carry off what they wished. See Sitio y conquista, pp. 75, 76.
 
@@ -9020,7 +8986,7 @@ provincial of the Philippines. See Sommervogel, vi, cols. 413, 414.
 
 [98] When Villacorta was arrested, the English promised to liberate
 him if Anda would retire from Pampanga to some other province (Martinez
-de Zúñiga, p. 648).
+de ZÃºÃ±iga, p. 648).
 
 [99] Published in Malo de Luque, v, pp. 290-292; Mas, i, pp. 170-172;
 and Montero y Vidal, ii, pp. 593, 594.
@@ -9048,16 +9014,16 @@ of their text, and the form and originality which they show." These
 are the originals, or contemporaneous copies thereof, and cover the
 years 1762-1764. Lack of space forbids the use of any of them here.
 
-[101] A German lay brother and Santiago de Orendaín went completely
+[101] A German lay brother and Santiago de OrendaÃ­n went completely
 over to the English. They burned many summer residences in the suburbs,
 and caused all the prisoners to swear allegiance to the British,
 although many failed to keep this forced oath. See Sitio y conquista,
 pp. 73, 74.
 
-[102] Among the prisoners taken by the enemy were the king of Joló and
+[102] Among the prisoners taken by the enemy were the king of JolÃ³ and
 his son Israel, who bore themselves like brave men, and more honorably
 than some of the Spaniards who fought there. When the British forces
-left, the king of Joló also fled in a ship of the English East India
+left, the king of JolÃ³ also fled in a ship of the English East India
 Company. See Sitio y conquista, pp. 90, 130.
 
 [103] Published in part in Malo de Luque, v, pp. 293-310; Mas, i,
@@ -9065,9 +9031,9 @@ pp. 172-181; and Montero y Vidal, ii, pp. 594-602. The most interesting
 part, that reproduced above, is omitted by each of these writers.
 
 [104] Space will not permit us to give in extenso an account of the
-insurrection headed by Diego Silán or Silang. It was the most obstinate
+insurrection headed by Diego SilÃ¡n or Silang. It was the most obstinate
 of all the insurrections that broke out against the Spaniards during
-the English occupation. Diego Silán was born December 16, 1730, in
+the English occupation. Diego SilÃ¡n was born December 16, 1730, in
 Pangasinan province. As a lad he served the cura of Vigan, but being
 sent down to Manila, the boat in which he took passage was wrecked on
 the coast of Bolinao. All his companions were killed by the barbarous
@@ -9080,32 +9046,32 @@ for him after the assault of Manila to rouse the natives, under pretext
 of protecting themselves from the British since the Spaniards were no
 longer able to defend them. Demands formulated and presented by the
 insurgents include the deposition of the alcalde-mayor, Antonio Zabala;
-that office to be held by the provisor Tomás Millán; the election of
+that office to be held by the provisor TomÃ¡s MillÃ¡n; the election of
 one of the four chiefs of Vigan as justice; the expulsion of all the
-Spaniards and mestizos from the province; the appointment of Silán to
+Spaniards and mestizos from the province; the appointment of SilÃ¡n to
 make head against the English. The insurrection makes great headway,
 and is soon found to be an attempt to break with all Spanish authority,
-and the insurgents are incited by the British, who appoint Silán
-alcalde and governor of the province of Ilocos. Silán meddles with
+and the insurgents are incited by the British, who appoint SilÃ¡n
+alcalde and governor of the province of Ilocos. SilÃ¡n meddles with
 ecclesiastical matters, opposing Bishop Ustariz, whereupon the latter
-pronounces an interdict in Vigan. Augustinians seized by Silán are
-imprisoned three separate times. Silán is finally killed by a Spanish
+pronounces an interdict in Vigan. Augustinians seized by SilÃ¡n are
+imprisoned three separate times. SilÃ¡n is finally killed by a Spanish
 mestizo, Miguel Vicos, May 28, 1763. This insurrection was quickly
-put down after the death of Silán, who was its life and exhibited a
+put down after the death of SilÃ¡n, who was its life and exhibited a
 certain amount of shrewdness and resource. But shortly after, another
-insurrection was started under Silán's uncle, Nicolás Cariño, which
+insurrection was started under SilÃ¡n's uncle, NicolÃ¡s CariÃ±o, which
 gained considerable headway, although it was finally stifled and quiet
 restored. Anda took various measures against these insurrections,
 but it was impossible for him to leave his post in Bulacan, where
 English matters occupied his attention. These insurrections were
 perhaps the most serious that the Spanish power in the Philippines had
-yet suffered. For accounts of them, see Relación de los alzamientos
+yet suffered. For accounts of them, see RelaciÃ³n de los alzamientos
 de la ciudad de Vigan, cabecera de la provincia de Ilocos, en los
-años de 1762 y 1763, by Pedro de Vivar, O.S.A. (written in 1764; but
+aÃ±os de 1762 y 1763, by Pedro de Vivar, O.S.A. (written in 1764; but
 published in Manila, 1893, in vol. iv, Biblioteca historica filipina),
 in which many documents are given; and Montero y Vidal's Historia, ii,
 pp. 77-114. Isabelo de los Reyes, the Ilocano writer and demagogue,
-praises Silán highly. See also post, pp. 298-306.
+praises SilÃ¡n highly. See also post, pp. 298-306.
 
 [105] Draper and Cornish sent an edict to the Filipinos on September
 24, 1762, announcing that the Filipinos need have no fear of the
@@ -9139,7 +9105,7 @@ are sent copies of a manifesto inviting trade. (All these documents
 are contained in the manuscript entitled Ingleses en Filipinas.)
 
 [106] This edict is as follows: "Inasmuch as many malcontents of the
-district of Señor Anda frequently come to the villages of Santa Cruz,
+district of SeÃ±or Anda frequently come to the villages of Santa Cruz,
 Binondoc, etc., for the purpose of killing the officers and soldiers
 whom they meet; and since said malcontents flee precipitously as soon
 as our troops go out in pursuit of them: therefore, notice is given
@@ -9169,13 +9135,13 @@ Ferrando, iv, pp. 647, 648; and Montero y Vidal, ii, pp. 603-605.)
 [107] January 28, 1763, the fiscal Viana fled the city, going to
 Anda's camp, where he was gladly received, and where he became very
 useful. Later Villacorta also escaped to Anda's camp. The latter and
-Galbán, who had been very far from doing their duty in the time of
+GalbÃ¡n, who had been very far from doing their duty in the time of
 danger, conspired to wrest the command from Anda in case of Rojo's
 death, on the grounds that most persons believed that the government
-of the islands should be given to Bishop Ustáriz of Nueva Segovia. The
+of the islands should be given to Bishop UstÃ¡riz of Nueva Segovia. The
 Franciscan and Recollect provincials, and the Jesuit superior declared
 that the command belonged to Anda; while the other religious institutes
-were neutral or sided with Bishop Ustáriz. The Augustinians pronounced
+were neutral or sided with Bishop UstÃ¡riz. The Augustinians pronounced
 for Villacorta. See Montero y Vidal, ii, pp. 65, 66.
 
 [108] The preliminary peace treaties were signed between Great Britain,
@@ -9244,25 +9210,25 @@ also ante, pp. 129-131, note 73.
 
 [117] See document by this man in VOL. XLVII, pp. 251-284.
 
-[118] At the death of Governor Arandía, June 1759, the government
+[118] At the death of Governor ArandÃ­a, June 1759, the government
 ad interim was assumed by Miguel Lino de Espeleta, bishop of
-Cebú. When Rojo took possession of the archiepiscopal see, July 22,
+CebÃº. When Rojo took possession of the archiepiscopal see, July 22,
 1759, he claimed that the government belonged to him. The auditors
-Villacorta and Galbán voted for Espeleta, and Calderon and Dávila for
+Villacorta and GalbÃ¡n voted for Espeleta, and Calderon and DÃ¡vila for
 Rojo. Espeleta, however, was backed by the troops, and the matter was
 accordingly decided in his favor. His first measure was the repeal of
-the celebrated ordinances of good government compiled by Arandía. His
-next step was the prosecution of Santiago Orendaín, the favorite of
-Arandía, as he believed him to be the originator of the regulations
+the celebrated ordinances of good government compiled by ArandÃ­a. His
+next step was the prosecution of Santiago OrendaÃ­n, the favorite of
+ArandÃ­a, as he believed him to be the originator of the regulations
 contrary to the religious, charge of the prosecution being given to
-Auditor Villacorta. Orendaín took refuge in the Augustinian convent at
+Auditor Villacorta. OrendaÃ­n took refuge in the Augustinian convent at
 Tondo, but was given up and lodged in the fort of Santiago. Escaping
 thence, he was received into the Recollect convent, whence he was
 taken by soldiers. The matter stirred up the opposing forces, and
 excommunications followed in rapid succession on both sides, the two
-auditors, Calderon and Dávila being among those excommunicated. The
+auditors, Calderon and DÃ¡vila being among those excommunicated. The
 matter was quashed by the archbishop upon the arrival of a royal
-decree appointing him governor ad interim (July, 1761). Orendaín was
+decree appointing him governor ad interim (July, 1761). OrendaÃ­n was
 liberated and the records of the case sent to Madrid. See Montero y
 Vidal, ii. pp. 7-9.
 
@@ -9271,14 +9237,14 @@ Vidal, ii. pp. 7-9.
 [120] See Anda's letter to the archbishop, ante, pp. 156-158.
 
 [121] See VOLS. XLIII and XLIII; appendices in vol. ii of Montero y
-Vidal's Piratería; Barrantes's Guerras piraticas, appendix: for the
-negotiations between the king of Joló, and his brother Bantilan,
+Vidal's PiraterÃ­a; Barrantes's Guerras piraticas, appendix: for the
+negotiations between the king of JolÃ³, and his brother Bantilan,
 and the Spaniards and English respectively. The king Ali-Mudin
-and his son were taken to Joló by Brereton when the British forces
+and his son were taken to JolÃ³ by Brereton when the British forces
 evacuated Manila in 1764. The king abdicated in favor of his son
 Israel. Thereupon, the Joloans divided into two factions, one in
 favor of the English and the other, headed by Israel, against them
-(Montero y Vidal's Piratería, i, p. 338).
+(Montero y Vidal's PiraterÃ­a, i, p. 338).
 
 [122] "The most singular of these imposts, however, is the Crusade. It
 was born in the ages of folly and fanaticism during which millions of
@@ -9298,17 +9264,17 @@ not strictly oblige its subjects to take this bull, but the priests
 refused the consolations of religion to those who neglected or
 disdained it; and perhaps there is not in all Spanish America a man
 sufficiently courageous or enlightened to brave this ecclesiastical
-censure." (Raynal, Etablissemens et commerce des Européens, ii,
+censure." (Raynal, Etablissemens et commerce des EuropÃ©ens, ii,
 pp. 310, 311.)
 
 [123] Orendain was a mestizo (a lawyer by profession) and
-maintained cordial relations with Diego Silán, the insurgent; and
+maintained cordial relations with Diego SilÃ¡n, the insurgent; and
 the communication of the latter may easily have taken place under his
 auspices. He bought the Augustinian convent and its library which were
 sold by the English with the understanding that if the latter abandoned
 the country, the religious could not claim their property. Embarking
 with the English after the peace, he was killed in Cochinchina by
-order of the king of that country. Vivar's Relación, p. 299, note.
+order of the king of that country. Vivar's RelaciÃ³n, p. 299, note.
 
 See also ante, p. 121, note 64.
 
@@ -9339,7 +9305,7 @@ all instances, suits representing a greater sum, in the same manner,
 except the Audiencias of Mejico and Lima. In those Audiencias it
 is our will that three votes be unanimous in every particular in
 order to try and sentence suits representing a greater sum, as is
-prescribed by the laws of these our kingdoms of Castilla." [Cárlos I,
+prescribed by the laws of these our kingdoms of Castilla." [CÃ¡rlos I,
 in the new laws of 1542; Felipe II, Aranjuez, September 24, 1568;
 Felipe IV, Madrid, September 22, 1626.]
 
@@ -9355,14 +9321,14 @@ at least in ordinary matters, the sentence shall not be pronounced
 until it is agreed upon and written neatly and signed. After it
 shall be published, it cannot be changed in any wise. The clerk shall
 immediately give in the court a copy of it to the party if he asks
-it, under penalty of a fine of two pesos for the courts." [Cárlos I,
+it, under penalty of a fine of two pesos for the courts." [CÃ¡rlos I,
 and the queen regent, Madrid, July 12, 1550, ordinance 14, concerning
 Audiencias; Felipe II, in said ordinances, no. 144.]
 
 Law cxi: "The auditors of our Audiencias where there are no alcaldes
 of crime, shall try criminal causes in the first instance in the city
 where the Audiencia resides, and five leguas about it, provided that
-the prison orders are assigned by at least two auditors." [Cárlos I
+the prison orders are assigned by at least two auditors." [CÃ¡rlos I
 and the queen regent, 1530.]
 
 Laws cvii-cxix refer to the manner of signing sentences; law cx
@@ -9386,7 +9352,7 @@ the Philippines. See Le Gentil, ii, pp. 224, 225.
 given a Spanish plural. See Noceda and Sanlucar's Vocabulario.
 
 [130] A minute of the council of war held September 25, 1762, signed
-by Ramon de Orendaín, with names of those attending and the decision
+by Ramon de OrendaÃ­n, with names of those attending and the decision
 pronounced by the archbishop is contained in a MS. owned by Edward
 E. Ayer.
 
@@ -9395,9 +9361,9 @@ the passion during holy week." It seems probable that it is an error
 of the amanuensis for prisionero, "prisoner."
 
 [132] According to manuscript maps in the archives of the Indies,
-at Seville, by the engineer Feliciano Márquez, dated September 30,
+at Seville, by the engineer Feliciano MÃ¡rquez, dated September 30,
 1767; and the pilot Francisco Xavier Estorgo, of 1770, the bastion
-of Carranza is another name for the bastion of San Andrés. An Irish
+of Carranza is another name for the bastion of San AndrÃ©s. An Irish
 pilot named Raymond Kelly was killed by the British while defending
 this bastion (see Sitio y conquista, p. 61)
 
@@ -9434,10 +9400,10 @@ for they met no obstacle. See Mas, i, p. 131.
 
 [136] The column that occupied the wall by the left of the foundry
 took possession of everything as far as the bastion of the gate of
-Santa Lucía. The greater part of the people were killed, and the gate
+Santa LucÃ­a. The greater part of the people were killed, and the gate
 of Santiago alone was left free. See Sitio y conquista, p. 61.
 
-[137] Ferrando gives this name as Nicolás de Ruiz (Historia, iv,
+[137] Ferrando gives this name as NicolÃ¡s de Ruiz (Historia, iv,
 p. 627), but all other accounts give it as Echauz.
 
 [138] Anda was sixty-two years of age when he left Manila to undertake
@@ -9457,7 +9423,7 @@ that the English hanged very many without trial or examination, as I
 saw several times in this place after it was lost, where I stayed for
 some months. They needed no gallows, for the criminals were hanged
 from any window grating like bananas." From History of the siege of
-Manila, by Father Agustín de Santa María, whose MS. is conserved in
+Manila, by Father AgustÃ­n de Santa MarÃ­a, whose MS. is conserved in
 the Augustinian archives of Madrid. See Mas, i, p. 135, note.
 
 [140] The castellan of Cavite at first refused to surrender the fort,
@@ -9481,7 +9447,7 @@ thousand pesos of coined silver which had been hidden in a garden,
 and the wrought silver which had been concealed when the question
 of paying the million was discussed. They did not pardon the relics
 of the saints, which they threw on the ground, in order to take
-the reliquaries in which they were kept. See Martinez de Zúñiga,
+the reliquaries in which they were kept. See Martinez de ZÃºÃ±iga,
 pp. 641, 642.
 
 [142] In the convent of the Augustinians in Manila, the British seized
@@ -9492,8 +9458,8 @@ to the British authorities. See Sitio y conquista, pp. 73, 76.
 [143] Probably Juan Manuel Maldonado de Puga, author of Religiosa
 hospitalidad, which has appeared in our VOL. XLVII.
 
-[144] The archbishop offered José Pedro Busto (who had come to the
-islands with his friend Governor Arandía) the post of provincial in
+[144] The archbishop offered JosÃ© Pedro Busto (who had come to the
+islands with his friend Governor ArandÃ­a) the post of provincial in
 the name of the British government with a salary of 5,000 pesos per
 year, together with the perquisites of the office and the aid that he
 would need. But he refused it, and left Manila with twenty Cagayans,
@@ -9583,7 +9549,7 @@ under the dominion of his Catholic Majesty) are to be ceded to his
 Britannic Majesty. The latter is to be the recognized sovereign until
 the peace between both kings decides their fate. Their religion, goods,
 privileges, possessions, and trade are to be conserved to the subjects
-of España who inhabit these islands, in the same manner that they
+of EspaÃ±a who inhabit these islands, in the same manner that they
 have been conserved for the inhabitants of Manila and on the island of
 Luzon. All the alcaldes, governors, and military men shall enjoy the
 honors of war if they give their word of honor not to serve or bear
@@ -9597,7 +9563,7 @@ archbishop's palace in which he lived. See Sitio y conquista,
 pp. 76, 77.
 
 [152] A reference to Matthew xvi, 26, the Latin of the Vulgate being:
-Quid enim prodest homini si mundum universum lucretur, animæ vero suæ
+Quid enim prodest homini si mundum universum lucretur, animÃ¦ vero suÃ¦
 detrimentum patiatur? Aut quam dabit homo commutationem pro anima
 sua? This reads as follows in the Douay version: "For what doth it
 profit a man, if he gain the whole world, and suffer the loss of his
@@ -9613,7 +9579,7 @@ the alcalde himself. For this they were pardoned by Anda, who saw
 himself powerless to pursue any other course just then. See Mas, i,
 pp. 159, 160.
 
-[154] Anda wrote Bishop Ustariz asking his coöperation in the
+[154] Anda wrote Bishop Ustariz asking his coÃ¶peration in the
 maintenance of quiet in the provinces, in view of the British invasion,
 and the danger that threatened the Catholic faith. This letter the
 bishop sent to the Augustinian provincial with one of his own, asking
@@ -9622,7 +9588,7 @@ the aid of the natives. An order promulgated by Anda, October 6, 1762,
 enjoins watchfulness on the part of the alcaldes-mayor. They are to
 forbid all passage to Manila, both of persons and supplies; are to deny
 all aid to the British and all strangers in their jurisdiction; and
-are to arrest or kill all suspects. See Vivar's Relación, pp. 294-296.
+are to arrest or kill all suspects. See Vivar's RelaciÃ³n, pp. 294-296.
 
 [155] Villacorta, whom Le Gentil terms a "just and impartial man,"
 asserted that Anda was unjust toward Rojo, who was very sincere in his
@@ -9653,7 +9619,7 @@ money payment (Sitio y conquista, p. 75).
 [162] In the province of Panay, the alcalde was corrupted by the
 English, but was prevented from surrendering the province, as he was
 seized and imprisoned by the Augustinians there, an act approved by
-Anda. In Cebú, quiet was restored after the alcalde was hanged with
+Anda. In CebÃº, quiet was restored after the alcalde was hanged with
 the aid of the loyal Augustinians. See Mas, i, pp. 161, 162.
 
 [163] See synopses and excerpts of these letters, ante, pp. 153-160.
@@ -9675,7 +9641,7 @@ for Anda, who, however, greatly mistrusted them. See Mas, i, pp. 160,
 MS.: "But the most celebrated and comical, was the disappearance
 of one hundred and thirty-five American soldiers, who by means of a
 rare stratagem deceived the vigilance of an English company which was
-guarding them in the castle of San Fernando or the alcaicería of the
+guarding them in the castle of San Fernando or the alcaicerÃ­a of the
 Chinese. In order that they might succeed in their projected attempt,
 they mined a bit of land as far as the outlet of the guardhouse, and
 then asked for permission to enact a farce. Their request was granted
@@ -9699,17 +9665,17 @@ as fortification to the enemy, immediately, if the village were
 attacked. See Malo de Luque, v, pp. 281-284; alto Montero y Vidal,
 ii, appendix, pp. 591-593, where it is published entire.
 
-[168] Biñang, in Laguna.
+[168] BiÃ±ang, in Laguna.
 
 [169] i.e., Drake, Smith, and Brook, the representatives of the East
 India Company, who were left in charge after Draper and Cornish left.
 
 [170] This is the "Manifesto juridico defensorio en respuesto de los
 reparos hechos por el Padre Fray Antonio de las Huertas, de el Orden de
-Predicadores, a un Memorial que en Real Consejo de las Indias presentó
-el Padre Luis A. de Morales de la Compañia de Jesus, Procurador de
+Predicadores, a un Memorial que en Real Consejo de las Indias presentÃ³
+el Padre Luis A. de Morales de la CompaÃ±ia de Jesus, Procurador de
 su Religion, por las Provincias de Filipinas. Escrivele el Padre
-Pedro de Espinar de la Compañia de Jesus, Provincial General de su
+Pedro de Espinar de la CompaÃ±ia de Jesus, Provincial General de su
 Religion, por las Provincias de Indias [Madrid, ca., 1680]." Pedro
 de Espinar died at Madrid, August 31, 1795. Luis de Morales was born
 at Tordesillas, September 29, 1641, and entered the Society August
@@ -9717,7 +9683,7 @@ at Tordesillas, September 29, 1641, and entered the Society August
 places, and in 1685 went to Europe as procurator. He was appointed
 visitor of Mexico, and then provincial of the Philippine missions,
 and finally rector of the Manila college, where he died, June 14,
-1716. See Sommervogel's Bibliothèque.
+1716. See Sommervogel's BibliothÃ¨que.
 
 [171] This last paragraph is evidently a note by Ventura del Arco.
 
@@ -9756,8 +9722,8 @@ Anda). Villacorta, who had joined Anda, and who had been left
 in Bacolor by the latter who had gone to attend to camp matters,
 claimed the office as senior auditor. Anda, hearing of the matter,
 immediately returned to Bacolor. Villacorta passed the matter off as
-mere conversation. But Anda investigating further, found that Galbán
-and Viana claimed that Bishop Ustáriz should be governor, in accordance
+mere conversation. But Anda investigating further, found that GalbÃ¡n
+and Viana claimed that Bishop UstÃ¡riz should be governor, in accordance
 with royal orders. Anda sought advice from various ecclesiastics, but
 they all refused any direct answer except the Jesuit, Franciscan, and
 Recollect provincials, who declared in Anda's favor. The discussion
@@ -9767,11 +9733,11 @@ Francisco de la Torre. See Mas, i, pp. 188-191.
 [180] On arriving at Bacolor, Anda speedily improvised a powder
 factory and foundry, and assumed the offensive immediately. The powder
 factory was directed by fathers Eugenio Garrido, parish priest of San
-Miguel de Mayumo, and Agustín María Castro, O.S.A.; and the foundry,
+Miguel de Mayumo, and AgustÃ­n MarÃ­a Castro, O.S.A.; and the foundry,
 by Father Facundo Acosta. See Montero y Vidal, ii, p. 39 and note.
 
 [181] The original of this letter exists in Academia de la Historia,
-Madrid, "Colección Mata Linares, tomo 97" (Montero y Vidal, ii,
+Madrid, "ColecciÃ³n Mata Linares, tomo 97" (Montero y Vidal, ii,
 p. 50, note).
 
 [182] Shortly before leaving Manila the British lost a ship which
@@ -9779,7 +9745,7 @@ was burned at Cavite, forty-three men perishing (Sitio y conquista,
 p. 130).
 
 [183] This is probably the Mercure de France, which was founded by
-Visé, in 1672, under the name of Mercure galant, and is the second
+VisÃ©, in 1672, under the name of Mercure galant, and is the second
 oldest paper of France. The name Mercure de France was adopted
 by Lefevre in 1714. In 1788 a political part was added under the
 title "Historical and political news." The publication of the sheet
@@ -9799,7 +9765,7 @@ pesos. See Mas, i, p. 195, note.
 Anda wrote to the religious for aid in quelling it; and in order to
 quiet the insurgents, promised them full pardon (Mas, i, pp. 148, 149).
 
-[186] A communication from Drake to Silán, May 9, grants him the titles
+[186] A communication from Drake to SilÃ¡n, May 9, grants him the titles
 of governor, alcalde, and sargento-mayor, of Ilocos. Montero y Vidal,
 ii, p. 100.
 
@@ -9928,7 +9894,7 @@ to each class, being cast into Sterling money, comes out thus:
 
 
     Between the Admiral, General, and
-    Commodore,  1/8th                                £.14120 12 9
+    Commodore,  1/8th                                Â£.14120 12 9
     To the Captains of the navy, and Field-officers
     of the army, 2/8th, each                            1539  0 8 1/2
     To the Lieutenants and Masters of the navy, and
@@ -10027,7 +9993,7 @@ Marquis Pombal, the Portuguese prime minister, who expelled the
 Jesuits from Portugal by the decree of September 1, 1759; and to the
 famous Lisbon earthquake of November 1, 1755. See Nicolini's History
 of Jesuits (London, 1879); Cretineau-Joly's Histoire de la Compagnie
-de Jésus (Paris, 1859), v; and Griesinger's Jesuits (London, 1903,
+de JÃ©sus (Paris, 1859), v; and Griesinger's Jesuits (London, 1903,
 3d ed.).
 
 [208] The storm against the Jesuits, which ended with the expulsion
@@ -10061,12 +10027,12 @@ and 8,794 in wrought silver; from the Misericordia, 196,042 pesos,
 2 reals, and 4 granos in coined silver; from the minor Ruiz, 1,472
 pesos in wrought silver, and 836 of the deposit belonging to Varela:
 all of which items make a total of 459,420 pesos. The wealthy citizens
-and families, to wit: Infante, Reyes, Jugo, Villar, Suárez, Ocampo,
-Memije, Varela, Bogan, Piñón, Monteroso, Mazo, Neyra, Lizárraga,
-Ruano, Noriega, Castro, Solano, Otal, Casañas, Cachit, Mantilla,
-Barrio, León y Verdugo--48,777 pesos. The sack amounted to 418,442
+and families, to wit: Infante, Reyes, Jugo, Villar, SuÃ¡rez, Ocampo,
+Memije, Varela, Bogan, PiÃ±Ã³n, Monteroso, Mazo, Neyra, LizÃ¡rraga,
+Ruano, Noriega, Castro, Solano, Otal, CasaÃ±as, Cachit, Mantilla,
+Barrio, LeÃ³n y Verdugo--48,777 pesos. The sack amounted to 418,442
 pesos. The English seized 25,000 pesos from [the property of] the
-absent Blanco; from the marqués de Monte Castro, 8,000 pesos; from
+absent Blanco; from the marquÃ©s de Monte Castro, 8,000 pesos; from
 the marquesa de Salinas, 10,000 pesos; in the seizure of San Pablo,
 the convent of the Calced Augustinian fathers, 60,000 pesos, which
 were buried, in coined silver, and 40,000 in wrought silver. To all
@@ -10083,365 +10049,4 @@ his Catholic Majesty's treasury. The total sum is 3,069,639 pesos."
 End of the Project Gutenberg EBook of The Philippine Islands, 1493-1898;
 Volume XLIX, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE PHILIPPINE ISLANDS, VOLUME XLIX ***
-
-***** This file should be named 56778-8.txt or 56778-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/6/7/7/56778/
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 56778 ***
